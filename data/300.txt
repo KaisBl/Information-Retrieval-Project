@@ -1,0 +1,1 @@
+{"title": "Robust e-Voting Composition", "link": "https://pureportal.coventry.ac.uk/en/publications/robust-e-voting-composition", "authors": [{"name": "Cooke, R.", "link": null}, {"name": "Anane, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/rachid-anane"}], "date": "Dec 2011"}

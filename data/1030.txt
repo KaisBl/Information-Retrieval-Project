@@ -1,0 +1,1 @@
+{"title": "Ontology-Based Automation of Security Guidelines for Smart Homes", "link": "https://pureportal.coventry.ac.uk/en/publications/ontology-based-automation-of-security-guidelines-for-smart-homes", "authors": [{"name": "Khan, Y. I.", "link": null}, {"name": "Maryleen, N.", "link": null}], "date": "7 May 2018"}

@@ -1,0 +1,1 @@
+{"title": "Analysis and Evaluations of Wireless LANs Security Protocols", "link": "https://pureportal.coventry.ac.uk/en/publications/analysis-and-evaluations-of-wireless-lans-security-protocols", "authors": [{"name": "Abdelshafy, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/mohamed-abdelshafy"}], "date": "Nov 2002"}

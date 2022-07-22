@@ -1,0 +1,1 @@
+{"title": "Game Based Cyber Security Training: are Serious Games suitable for cyber security training?", "link": "https://pureportal.coventry.ac.uk/en/publications/game-based-cyber-security-training-are-serious-games-suitable-for-2", "authors": [{"name": "Hendrix, M.", "link": null}, {"name": "Al-Sherbaz, A.", "link": null}, {"name": "Bloom, V.", "link": null}], "date": "2016"}

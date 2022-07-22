@@ -1,0 +1,1 @@
+{"title": "A hybrid approach to co-reference identification within museum collections", "link": "https://pureportal.coventry.ac.uk/en/publications/a-hybrid-approach-to-co-reference-identification-within-museum-co", "authors": [{"name": "Croft, D.", "link": null}, {"name": "Coupland, S.", "link": null}, {"name": "Brown, S.", "link": null}], "date": "2013"}

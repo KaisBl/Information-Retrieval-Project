@@ -1,0 +1,1 @@
+{"title": "The Kosterlitz-Thouless universality class", "link": "https://pureportal.coventry.ac.uk/en/publications/the-kosterlitz-thouless-universality-class-2", "authors": [{"name": "Kenna, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/ralph-kenna"}, {"name": "Irving, A. C.", "link": null}], "date": "10 Feb 1997"}

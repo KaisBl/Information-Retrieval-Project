@@ -1,0 +1,1 @@
+{"title": "Cyber Security Training Perspectives", "link": "https://pureportal.coventry.ac.uk/en/publications/cyber-security-training-perspectives-2", "authors": [{"name": "Hendrix, M.", "link": null}], "date": "13 Dec 2013"}

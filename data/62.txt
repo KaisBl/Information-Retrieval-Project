@@ -1,0 +1,1 @@
+{"title": "An Enterprise it security data model", "link": "https://pureportal.coventry.ac.uk/en/publications/an-enterprise-it-security-data-model-2", "authors": [{"name": "Belsis, M. A.", "link": null}, {"name": "Godwin, A. N.", "link": null}, {"name": "Smalov, L.", "link": null}], "date": "2002"}

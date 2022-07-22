@@ -1,0 +1,1 @@
+{"title": "Malware in the Mobile Device Android Environment", "link": "https://pureportal.coventry.ac.uk/en/publications/malware-in-the-mobile-device-android-environment", "authors": [{"name": "Hintea, D.", "link": "https://pureportal.coventry.ac.uk/en/persons/diana-hintea"}, {"name": "Bird, B.", "link": null}, {"name": "Walker, A.", "link": null}], "date": "Apr 2016"}

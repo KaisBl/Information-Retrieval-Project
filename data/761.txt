@@ -1,0 +1,1 @@
+{"title": "INTEGRATED PRODUCT MODELLING THROUGH IFM-CPM/PDD", "link": "https://pureportal.coventry.ac.uk/en/publications/integrated-product-modelling-through-ifm-cpmpdd", "authors": [{"name": "Eisenbart, B.", "link": null}, {"name": "Khan, YI.", "link": null}, {"name": "Qureshi, AJ.", "link": null}], "date": "2016"}

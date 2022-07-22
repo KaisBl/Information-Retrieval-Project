@@ -1,0 +1,1 @@
+{"title": "Dynamic phase transitions in the presence of quenched randomness", "link": "https://pureportal.coventry.ac.uk/en/publications/dynamic-phase-transitions-in-the-presence-of-quenched-randomness", "authors": [{"name": "Fytas, N.", "link": "https://pureportal.coventry.ac.uk/en/persons/nikolaos-fytas"}, {"name": "Vatansever, E.", "link": null}], "date": "25 Jun 2018"}

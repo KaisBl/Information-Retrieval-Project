@@ -1,0 +1,1 @@
+{"title": "Tailoring of electromagnetic waves by metasurfaces", "link": "https://pureportal.coventry.ac.uk/en/publications/tailoring-of-electromagnetic-waves-by-metasurfaces", "authors": [{"name": "Spada, L. L.", "link": null}, {"name": "Hao, Y.", "link": null}], "date": "15 May 2017"}

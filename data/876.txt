@@ -1,0 +1,1 @@
+{"title": "Rethinking Frequency Opponent Modeling in Automated Negotiation", "link": "https://pureportal.coventry.ac.uk/en/publications/rethinking-frequency-opponent-modeling-in-automated-negotiation", "authors": [{"name": "Tunali, O.", "link": null}, {"name": "Aydogan, R.", "link": null}, {"name": "Sanchez-Anguix, V.", "link": null}], "date": "5 Oct 2017"}

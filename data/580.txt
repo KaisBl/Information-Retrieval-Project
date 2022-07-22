@@ -1,0 +1,1 @@
+{"title": "Optimised Job-Shop Scheduling via Genetic Algorithm for a Manufacturing Production System", "link": "https://pureportal.coventry.ac.uk/en/publications/optimised-job-shop-scheduling-via-genetic-algorithm-for-a-manufac-2", "authors": [{"name": "Shen, Z.", "link": null}, {"name": "Burnham, K. J.", "link": null}, {"name": "Smalov, L.", "link": null}], "date": "2015"}

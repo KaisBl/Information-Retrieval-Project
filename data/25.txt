@@ -1,0 +1,1 @@
+{"title": "An introduction to knowledge acquisition", "link": "https://pureportal.coventry.ac.uk/en/publications/an-introduction-to-knowledge-acquisition", "authors": [{"name": "Mitchell, F.", "link": "https://pureportal.coventry.ac.uk/en/persons/faye-mitchell"}], "date": "1998"}

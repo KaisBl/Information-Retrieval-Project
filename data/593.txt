@@ -1,0 +1,1 @@
+{"title": "Meta-Cyber Security System", "link": "https://pureportal.coventry.ac.uk/en/publications/meta-cyber-security-system", "authors": [{"name": "Fowler, D. S.", "link": null}, {"name": "Cheah, H.", "link": null}, {"name": "Bird, R.", "link": null}], "date": "Feb 2015"}

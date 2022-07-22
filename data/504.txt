@@ -1,0 +1,1 @@
+{"title": "AODV Routing Protocol Performance Analysis under MANET Attacks", "link": "https://pureportal.coventry.ac.uk/en/publications/aodv-routing-protocol-performance-analysis-under-manet-attacks", "authors": [{"name": "Abdelshafy, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/mohamed-abdelshafy"}, {"name": "King, P. J. B.", "link": null}], "date": "Jun 2014"}

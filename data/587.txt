@@ -1,0 +1,1 @@
+{"title": "Neutron/gamma-ray discrimination through measures of fit", "link": "https://pureportal.coventry.ac.uk/en/publications/neutrongamma-ray-discrimination-through-measures-of-fit", "authors": [{"name": "Amiri, M.", "link": null}, {"name": "Prenosil, V.", "link": null}, {"name": "Cvachovec, F.", "link": null}], "date": "Apr 2015"}

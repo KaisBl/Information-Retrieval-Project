@@ -1,0 +1,1 @@
+{"title": "An information security knowledge sharing model in organizations", "link": "https://pureportal.coventry.ac.uk/en/publications/an-information-security-knowledge-sharing-model-in-organizations", "authors": [{"name": "Safa, N. S.", "link": null}, {"name": "Von Solms, R.", "link": null}], "date": "1 Apr 2016"}

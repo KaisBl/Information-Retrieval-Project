@@ -1,0 +1,1 @@
+{"title": "Wavelet decomposition method for L2/TV-image deblurring", "link": "https://pureportal.coventry.ac.uk/en/publications/wavelet-decomposition-method-for-l2tv-image-deblurring", "authors": [{"name": "Fornasier, M.", "link": null}, {"name": "Kim, Y.", "link": null}, {"name": "Langer, A.", "link": null}, {"name": "Sch\u00f6nlieb, C-B.", "link": null}], "date": "17 Jul 2012"}

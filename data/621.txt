@@ -1,0 +1,1 @@
+{"title": "Filtering and Reconstruction System for Gray Forensic Images", "link": "https://pureportal.coventry.ac.uk/en/publications/filtering-and-reconstruction-system-for-gray-forensic-images-2", "authors": [{"name": "Aljarf, A.", "link": null}, {"name": "Amin, S.", "link": null}], "date": "2015"}

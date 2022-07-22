@@ -1,0 +1,1 @@
+{"title": "Elementary model of internal electromagnetic pinch-type instability", "link": "https://pureportal.coventry.ac.uk/en/publications/elementary-model-of-internal-electromagnetic-pinch-type-instabili-2", "authors": [{"name": "Priede, J.", "link": "https://pureportal.coventry.ac.uk/en/persons/janis-priede"}], "date": "10 Apr 2017"}

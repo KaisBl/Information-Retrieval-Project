@@ -1,0 +1,1 @@
+{"title": "Gradient coil design for MRI by neural networks", "link": "https://pureportal.coventry.ac.uk/en/publications/gradient-coil-design-for-mri-by-neural-networks", "authors": [{"name": "Marinova, I.", "link": null}, {"name": "Panchev, C.", "link": "https://pureportal.coventry.ac.uk/en/persons/christo-panchev"}, {"name": "Katsakos, D.", "link": null}], "date": "1999"}

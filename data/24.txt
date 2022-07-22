@@ -1,0 +1,1 @@
+{"title": "Fisher zeros and singular behaviour of the two-dimensional Potts model in the thermodynamic limit", "link": "https://pureportal.coventry.ac.uk/en/publications/fisher-zeros-and-singular-behaviour-of-the-two-dimensional-potts--2", "authors": [{"name": "Kenna, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/ralph-kenna"}], "date": "1998"}

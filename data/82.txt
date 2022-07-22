@@ -1,0 +1,1 @@
+{"title": "Implementation of a proactive load sharing scheme", "link": "https://pureportal.coventry.ac.uk/en/publications/implementation-of-a-proactive-load-sharing-scheme-2", "authors": [{"name": "Anane, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/rachid-anane"}, {"name": "Anthony, R. J.", "link": null}], "date": "2003"}

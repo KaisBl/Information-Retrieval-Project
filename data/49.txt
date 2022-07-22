@@ -1,0 +1,1 @@
+{"title": "Multicriteria ranking of inventory replenishment policies in the presence of uncertainty in customer demand", "link": "https://pureportal.coventry.ac.uk/en/publications/multicriteria-ranking-of-inventory-replenishment-policies-in-the-", "authors": [{"name": "Petrovic, R.", "link": null}, {"name": "Petrovic, D.", "link": null}], "date": "6 May 2001"}

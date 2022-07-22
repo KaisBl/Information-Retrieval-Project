@@ -1,0 +1,1 @@
+{"title": "Connected-component identification and cluster update on graphics processing units", "link": "https://pureportal.coventry.ac.uk/en/publications/connected-component-identification-and-cluster-update-on-graphics-2", "authors": [{"name": "Weigel, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/martin-weigel"}], "date": "27 Sep 2011"}

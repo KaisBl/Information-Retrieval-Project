@@ -1,0 +1,1 @@
+{"title": "Spin and chiral stiffness of the XY spin glass in two dimensions", "link": "https://pureportal.coventry.ac.uk/en/publications/spin-and-chiral-stiffness-of-the-xy-spin-glass-in-two-dimensions-2", "authors": [{"name": "Weigel, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/martin-weigel"}, {"name": "Gingras, M. J. P.", "link": null}], "date": "23 Mar 2007"}

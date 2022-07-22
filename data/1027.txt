@@ -1,0 +1,1 @@
+{"title": "Passive Radar for Opportunistic Monitoring in e-Health Applications", "link": "https://pureportal.coventry.ac.uk/en/publications/passive-radar-for-opportunistic-monitoring-in-e-health-applicatio", "authors": [{"name": "Li, W.", "link": null}, {"name": "Tan, B.", "link": null}, {"name": "Piechocki, R. J.", "link": null}], "date": "25 Jan 2018"}

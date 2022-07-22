@@ -1,0 +1,1 @@
+{"title": "Fault collapsing and test generation for a circuit", "link": "https://pureportal.coventry.ac.uk/en/publications/fault-collapsing-and-test-generation-for-a-circuit", "authors": [{"name": "Amiri, M.", "link": null}, {"name": "P\u0159enosil, V.", "link": null}], "date": "Oct 2013"}

@@ -1,0 +1,1 @@
+{"title": "Neural Signal Processing With Programmable Cortical Arrays", "link": "https://pureportal.coventry.ac.uk/en/publications/neural-signal-processing-with-programmable-cortical-arrays", "authors": [{"name": "Ghani, A.", "link": null}], "date": "2009"}

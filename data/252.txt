@@ -1,0 +1,1 @@
+{"title": "User Guide of IVY Workbench", "link": "https://pureportal.coventry.ac.uk/en/publications/user-guide-of-ivy-workbench", "authors": [{"name": "Konios, A.", "link": null}], "date": "Aug 2010"}

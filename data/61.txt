@@ -1,0 +1,1 @@
+{"title": "Density of partition function zeroes and phase transition strength", "link": "https://pureportal.coventry.ac.uk/en/publications/density-of-partition-function-zeroes-and-phase-transition-strengt-2", "authors": [{"name": "Janke, W.", "link": null}, {"name": "Kenna, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/ralph-kenna"}], "date": "1 Aug 2002"}

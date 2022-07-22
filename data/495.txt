@@ -1,0 +1,1 @@
+{"title": "Complex Negotiations in Multi-agent Systems", "link": "https://pureportal.coventry.ac.uk/en/publications/complex-negotiations-in-multi-agent-systems", "authors": [{"name": "Sanchez-Anguix, V.", "link": null}], "date": "2014"}

@@ -1,0 +1,1 @@
+{"title": "Effects of lying in practical Turing tests", "link": "https://pureportal.coventry.ac.uk/en/publications/effects-of-lying-in-practical-turing-tests-2", "authors": [{"name": "Warwick, K.", "link": "https://pureportal.coventry.ac.uk/en/persons/kevin-warwick"}, {"name": "Shah, H.", "link": "https://pureportal.coventry.ac.uk/en/persons/huma-shah"}], "date": "Jan 2014"}

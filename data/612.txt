@@ -1,0 +1,1 @@
+{"title": "Human misidentification in Turing tests", "link": "https://pureportal.coventry.ac.uk/en/publications/human-misidentification-in-turing-tests-2", "authors": [{"name": "Warwick, K.", "link": "https://pureportal.coventry.ac.uk/en/persons/kevin-warwick"}, {"name": "Shah, H.", "link": "https://pureportal.coventry.ac.uk/en/persons/huma-shah"}], "date": "2015"}

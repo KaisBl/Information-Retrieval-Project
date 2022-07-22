@@ -1,0 +1,1 @@
+{"title": "A FUZZY MODEL FOR INVENTORY ALLOCATION IN A SERIAL PRODUCTION/INVENTORY SYSTEM", "link": "https://pureportal.coventry.ac.uk/en/publications/a-fuzzy-model-for-inventory-allocation-in-a-serial-productioninve-2", "authors": [{"name": "Petrovic, D.", "link": null}, {"name": "Roy, R.", "link": null}, {"name": "Petrovic, R.", "link": null}], "date": "1996"}

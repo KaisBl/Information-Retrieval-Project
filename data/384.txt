@@ -1,0 +1,1 @@
+{"title": "Students\u2019 Experience of Institutional Interventions On Plagiarism: Nigerian Case", "link": "https://pureportal.coventry.ac.uk/en/publications/students-experience-of-institutional-interventions-on-plagiarism-", "authors": [{"name": "Orim, S-M.", "link": null}, {"name": "Borg, E.", "link": null}, {"name": "Awale-Ale, I.", "link": null}], "date": "12 Jun 2013"}

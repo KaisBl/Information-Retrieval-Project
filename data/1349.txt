@@ -1,0 +1,1 @@
+{"title": "Evolutionary algorithms for modeling non-equilibrium population", "link": "https://pureportal.coventry.ac.uk/en/publications/evolutionary-algorithms-for-modeling-non-equilibrium-population", "authors": [{"name": "Muhammad Fuad, M. M.", "link": "https://pureportal.coventry.ac.uk/en/persons/marwan-fuad"}], "date": "Jan 2022"}

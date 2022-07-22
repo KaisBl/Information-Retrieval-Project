@@ -1,0 +1,1 @@
+{"title": "Recent advances in phase transitions and critical phenomena", "link": "https://pureportal.coventry.ac.uk/en/publications/recent-advances-in-phase-transitions-and-critical-phenomena", "authors": [{"name": "Weigel, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/martin-weigel"}], "date": "5 Apr 2017"}

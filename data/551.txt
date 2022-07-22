@@ -1,0 +1,1 @@
+{"title": "SimAula Game", "link": "https://pureportal.coventry.ac.uk/en/publications/simaula-game", "authors": [{"name": "Clarke, S.", "link": "https://pureportal.coventry.ac.uk/en/persons/samantha-clarke"}, {"name": "Lameras, P.", "link": "https://pureportal.coventry.ac.uk/en/persons/petros-lameras"}, {"name": "Torrens, K.", "link": null}], "date": "1 Aug 2015"}

@@ -1,0 +1,1 @@
+{"title": "Evaluation of e-performance system: A cultural perspective", "link": "https://pureportal.coventry.ac.uk/en/publications/evaluation-of-e-performance-system-a-cultural-perspective", "authors": [{"name": "Al-Raisi, A.", "link": null}, {"name": "Amin, S.", "link": null}, {"name": "Iqbal, R.", "link": null}, {"name": "Thompson, P.", "link": null}], "date": "2013"}

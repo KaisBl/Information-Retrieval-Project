@@ -1,0 +1,1 @@
+{"title": "AODV & SAODV under Attack: Performance Comparison", "link": "https://pureportal.coventry.ac.uk/en/publications/aodv-amp-saodv-under-attack-performance-comparison", "authors": [{"name": "Abdelshafy, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/mohamed-abdelshafy"}, {"name": "King, P. J. B.", "link": null}], "date": "Jun 2014"}

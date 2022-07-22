@@ -1,0 +1,1 @@
+{"title": "Adaptability research on phase change materials based technologies in China", "link": "https://pureportal.coventry.ac.uk/en/publications/adaptability-research-on-phase-change-materials-based-technologie-2", "authors": [{"name": "Zeng, C.", "link": null}, {"name": "Liu, S.", "link": null}, {"name": "Shukla, A.", "link": null}], "date": "Jun 2017"}

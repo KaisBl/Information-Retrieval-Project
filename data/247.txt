@@ -1,0 +1,1 @@
+{"title": "Adaptation languages for learning: the CAM meta-model", "link": "https://pureportal.coventry.ac.uk/en/publications/adaptation-languages-for-learning-the-cam-meta-model-2", "authors": [{"name": "Hendrix, M.", "link": null}, {"name": "Cristea, A. I.", "link": null}, {"name": "Stewart, C.", "link": null}], "date": "2009"}

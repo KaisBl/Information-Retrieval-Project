@@ -1,0 +1,1 @@
+{"title": "Information Geometry, One, Two, Three (and Four)", "link": "https://pureportal.coventry.ac.uk/en/publications/information-geometry-one-two-three-and-four-2", "authors": [{"name": "Johnston, D. A.", "link": null}, {"name": "Janke, W.", "link": null}, {"name": "Kenna, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/ralph-kenna"}], "date": "2003"}

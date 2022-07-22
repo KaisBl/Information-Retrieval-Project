@@ -1,0 +1,1 @@
+{"title": "Recent advances in real geometric reasoning", "link": "https://pureportal.coventry.ac.uk/en/publications/recent-advances-in-real-geometric-reasoning-2", "authors": [{"name": "Davenport, J.", "link": null}, {"name": "England, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/matthew-england"}], "date": "2015"}

@@ -1,0 +1,1 @@
+{"title": "Analysis of the communities of an urban mobile phone network", "link": "https://pureportal.coventry.ac.uk/en/publications/analysis-of-the-communities-of-an-urban-mobile-phone-network", "authors": [{"name": "Botta, F.", "link": null}, {"name": "del Genio, C.", "link": "https://pureportal.coventry.ac.uk/en/persons/charo-del-genio"}], "date": "23 Mar 2017"}

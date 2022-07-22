@@ -1,0 +1,1 @@
+{"title": "E-services in e-business engineering", "link": "https://pureportal.coventry.ac.uk/en/publications/e-services-in-e-business-engineering-2", "authors": [{"name": "Chao, K-M.", "link": null}], "date": "2016"}

@@ -1,0 +1,1 @@
+{"title": "Automatic development of robot behaviour using Monte Carlo methods", "link": "https://pureportal.coventry.ac.uk/en/publications/automatic-development-of-robot-behaviour-using-monte-carlo-method-2", "authors": [{"name": "Brusey, J.", "link": "https://pureportal.coventry.ac.uk/en/persons/james-brusey"}], "date": "2000"}

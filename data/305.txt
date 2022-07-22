@@ -1,0 +1,1 @@
+{"title": "Modelling Theory and Applications of the Electromagnetic Vibrational Generator", "link": "https://pureportal.coventry.ac.uk/en/publications/modelling-theory-and-applications-of-the-electromagnetic-vibratio-2", "authors": [{"name": "Saha, C. R.", "link": "https://pureportal.coventry.ac.uk/en/persons/chitta-saha"}], "date": "22 Dec 2011"}

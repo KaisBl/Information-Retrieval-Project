@@ -1,0 +1,1 @@
+{"title": "New level doubling architecture of cascaded Multilevel inverter", "link": "https://pureportal.coventry.ac.uk/en/publications/new-level-doubling-architecture-of-cascaded-multilevel-inverter", "authors": [{"name": "Ghani, A.", "link": null}, {"name": "Yahya, A.", "link": null}, {"name": "Ali, S. M. U.", "link": null}], "date": "10 Jul 2019"}

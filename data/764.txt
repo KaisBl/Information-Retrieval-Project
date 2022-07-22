@@ -1,0 +1,1 @@
+{"title": "Human errors in the information security realm \u2013 and how to fix them", "link": "https://pureportal.coventry.ac.uk/en/publications/human-errors-in-the-information-security-realm-and-how-to-fix-the", "authors": [{"name": "Safa, N. S.", "link": null}, {"name": "Maple, C.", "link": null}], "date": "1 Sep 2016"}

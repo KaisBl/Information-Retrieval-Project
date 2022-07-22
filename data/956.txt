@@ -1,0 +1,1 @@
+{"title": "Collaborative mapping and navigation for a mobile robot swarm", "link": "https://pureportal.coventry.ac.uk/en/publications/collaborative-mapping-and-navigation-for-a-mobile-robot-swarm", "authors": [{"name": "Arvanitakis, I.", "link": "https://pureportal.coventry.ac.uk/en/persons/john-arvanitakis"}, {"name": "Tzes, A.", "link": null}], "date": "18 Jul 2017"}

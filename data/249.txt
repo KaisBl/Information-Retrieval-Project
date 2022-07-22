@@ -1,0 +1,1 @@
+{"title": "Wang-Landau study of the triangular Blume-Capel ferromagnet", "link": "https://pureportal.coventry.ac.uk/en/publications/wang-landau-study-of-the-triangular-blume-capel-ferromagnet-2", "authors": [{"name": "Fytas, N. G.", "link": "https://pureportal.coventry.ac.uk/en/persons/nikolaos-fytas"}], "date": "23 Dec 2010"}

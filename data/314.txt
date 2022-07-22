@@ -1,0 +1,1 @@
+{"title": "From an Individual Perspective to a Team Perspective in Agent-Based Negotiation", "link": "https://pureportal.coventry.ac.uk/en/publications/from-an-individual-perspective-to-a-team-perspective-in-agent-bas", "authors": [{"name": "Sanchez-Anguix, V.", "link": null}, {"name": "Julian, V.", "link": null}, {"name": "Garc\u00eda-Fornes, A.", "link": null}], "date": "2011"}

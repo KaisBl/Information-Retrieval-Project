@@ -1,0 +1,1 @@
+{"title": "The Structure of the Aoki Phase at Weak Coupling", "link": "https://pureportal.coventry.ac.uk/en/publications/the-structure-of-the-aoki-phase-at-weak-coupling-2", "authors": [{"name": "Kenna, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/ralph-kenna"}, {"name": "Pinto, C.", "link": null}, {"name": "Sexton, J. C.", "link": null}], "date": "26 Apr 2001"}

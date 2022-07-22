@@ -1,0 +1,1 @@
+{"title": "Logarithmic corrections to scaling in the XY2\u2014model", "link": "https://pureportal.coventry.ac.uk/en/publications/logarithmic-corrections-to-scaling-in-the-xy2model-2", "authors": [{"name": "Kenna, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/ralph-kenna"}, {"name": "Irving, A. C.", "link": null}], "date": "Apr 1995"}

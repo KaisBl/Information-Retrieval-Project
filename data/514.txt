@@ -1,0 +1,1 @@
+{"title": "A fast geometric defuzzication operator for large scale information retrieval", "link": "https://pureportal.coventry.ac.uk/en/publications/a-fast-geometric-defuzzication-operator-for-large-scale-informati-2", "authors": [{"name": "Coupland, S.", "link": null}, {"name": "Croft, D.", "link": null}, {"name": "Brown, S.", "link": null}], "date": "8 Sep 2014"}

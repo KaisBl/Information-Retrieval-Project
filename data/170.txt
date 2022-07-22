@@ -1,0 +1,1 @@
+{"title": "Spotlight interest management in distributed virtual environments", "link": "https://pureportal.coventry.ac.uk/en/publications/spotlight-interest-management-in-distributed-virtual-environments-2", "authors": [{"name": "Dunwell, I.", "link": "https://pureportal.coventry.ac.uk/en/persons/ian-dunwell"}, {"name": "Whelan, J. C.", "link": null}], "date": "2008"}

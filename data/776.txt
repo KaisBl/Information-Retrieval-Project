@@ -1,0 +1,1 @@
+{"title": "Experimental study on the thermal performance of air-PCM unit", "link": "https://pureportal.coventry.ac.uk/en/publications/experimental-study-on-the-thermal-performance-of-air-pcm-unit-2", "authors": [{"name": "Inten, M.", "link": null}, {"name": "Liu, S.", "link": null}, {"name": "Shukla, A.", "link": null}], "date": "27 May 2016"}

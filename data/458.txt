@@ -1,0 +1,1 @@
+{"title": "Resisting flooding attacks on AODV", "link": "https://pureportal.coventry.ac.uk/en/publications/resisting-flooding-attacks-on-aodv", "authors": [{"name": "Abdelshafy, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/mohamed-abdelshafy"}], "date": "Nov 2014"}

@@ -1,0 +1,1 @@
+{"title": "Heating performance of a solar chimney combined PCM: a numerical case study", "link": "https://pureportal.coventry.ac.uk/en/publications/heating-performance-of-a-solar-chimney-combined-pcm-a-numerical-c-2", "authors": [{"name": "Liu, S.", "link": null}, {"name": "Li, Y.", "link": null}], "date": "15 Jul 2015"}

@@ -1,0 +1,1 @@
+{"title": "Agreement Technologies for Conflict Resolution", "link": "https://pureportal.coventry.ac.uk/en/publications/agreement-technologies-for-conflict-resolution", "authors": [{"name": "Julian, V.", "link": null}, {"name": "Sanchez-Anguix, V.", "link": null}, {"name": "Heras, S.", "link": null}, {"name": "Carrascosa, C.", "link": null}], "date": "2016"}

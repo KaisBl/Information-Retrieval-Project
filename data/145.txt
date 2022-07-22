@@ -1,0 +1,1 @@
+{"title": "The dynamics of negative correlation learning", "link": "https://pureportal.coventry.ac.uk/en/publications/the-dynamics-of-negative-correlation-learning-2", "authors": [{"name": "Eastwood, M.", "link": null}, {"name": "Gabrys, B.", "link": null}], "date": "2007"}

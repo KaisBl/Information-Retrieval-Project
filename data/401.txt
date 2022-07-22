@@ -1,0 +1,1 @@
+{"title": "Modelling Ambient Systems with Coloured Petri Nets", "link": "https://pureportal.coventry.ac.uk/en/publications/modelling-ambient-systems-with-coloured-petri-nets", "authors": [{"name": "Konios, A.", "link": null}, {"name": "Koutny, M.", "link": null}], "date": "Mar 2013"}

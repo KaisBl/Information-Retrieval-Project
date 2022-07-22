@@ -1,0 +1,1 @@
+{"title": "Multiclause sentence gestalt model for natural language comprehension", "link": "https://pureportal.coventry.ac.uk/en/publications/multiclause-sentence-gestalt-model-for-natural-language-comprehen", "authors": [{"name": "Panchev, C.", "link": "https://pureportal.coventry.ac.uk/en/persons/christo-panchev"}, {"name": "Kirova, T.", "link": null}], "date": "1996"}

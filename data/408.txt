@@ -1,0 +1,1 @@
+{"title": "Hybrid Profiling in Information Retrieval", "link": "https://pureportal.coventry.ac.uk/en/publications/hybrid-profiling-in-information-retrieval", "authors": [{"name": "Pannu, M. K.", "link": null}, {"name": "Anane, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/rachid-anane"}, {"name": "James, A.", "link": null}], "date": "11 Jun 2013"}

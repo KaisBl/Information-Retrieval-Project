@@ -1,0 +1,1 @@
+{"title": "The F model on dynamical quadrangulations", "link": "https://pureportal.coventry.ac.uk/en/publications/the-f-model-on-dynamical-quadrangulations-2", "authors": [{"name": "Weigel, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/martin-weigel"}, {"name": "Janke, W.", "link": null}], "date": "25 Jul 2005"}

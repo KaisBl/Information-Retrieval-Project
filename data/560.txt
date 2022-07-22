@@ -1,0 +1,1 @@
+{"title": "Report on the 40th International Symposium on Symbolic and Algebraic Computation", "link": "https://pureportal.coventry.ac.uk/en/publications/report-on-the-40th-international-symposium-on-symbolic-and-algebr", "authors": [{"name": "England, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/matthew-england"}], "date": "1 Sep 2015"}

@@ -1,0 +1,1 @@
+{"title": "Spin stiffness of vector spin glasses", "link": "https://pureportal.coventry.ac.uk/en/publications/spin-stiffness-of-vector-spin-glasses-2", "authors": [{"name": "Beyer, F.", "link": null}, {"name": "Weigel, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/martin-weigel"}], "date": "7 Dec 2010"}

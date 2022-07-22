@@ -1,0 +1,1 @@
+{"title": "Electromagnetic modeling of ellipsoidal nanoparticles for sensing applications", "link": "https://pureportal.coventry.ac.uk/en/publications/electromagnetic-modeling-of-ellipsoidal-nanoparticles-for-sensing", "authors": [{"name": "La Spada, L.", "link": null}, {"name": "Iovine, R.", "link": null}, {"name": "Vegni, L.", "link": null}], "date": "13 Mar 2013"}

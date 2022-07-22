@@ -1,0 +1,1 @@
+{"title": "Optimisation, security, privacy and trust in e-business systems", "link": "https://pureportal.coventry.ac.uk/en/publications/optimisation-security-privacy-and-trust-in-e-business-systems-2", "authors": [{"name": "james, A.", "link": null}], "date": "2015"}

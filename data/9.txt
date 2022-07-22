@@ -1,0 +1,1 @@
+{"title": "Towards painless knowledge acquisition", "link": "https://pureportal.coventry.ac.uk/en/publications/towards-painless-knowledge-acquisition", "authors": [{"name": "Sleeman, D.", "link": null}, {"name": "Mitchell, F.", "link": "https://pureportal.coventry.ac.uk/en/persons/faye-mitchell"}], "date": "1996"}

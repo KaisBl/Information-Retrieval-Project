@@ -1,0 +1,1 @@
+{"title": "Wireless energy harvesting for rotor instrumentation in electrical machines", "link": "https://pureportal.coventry.ac.uk/en/publications/wireless-energy-harvesting-for-rotor-instrumentation-in-electrica", "authors": [{"name": "Tatlow, M.", "link": null}, {"name": "McMahon, R.", "link": null}, {"name": "Abdi Jalebi, S.", "link": null}], "date": "10 Nov 2016"}

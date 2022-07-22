@@ -1,0 +1,1 @@
+{"title": "Property Based Verification of Evolving Petri Nets", "link": "https://pureportal.coventry.ac.uk/en/publications/property-based-verification-of-evolving-petri-nets", "authors": [{"name": "Khan, Y. I.", "link": null}, {"name": "Al-shaer, E.", "link": null}], "date": "2015"}

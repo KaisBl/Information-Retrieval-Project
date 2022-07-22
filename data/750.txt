@@ -1,0 +1,1 @@
+{"title": "Maths meets myths", "link": "https://pureportal.coventry.ac.uk/en/publications/maths-meets-myths-2", "authors": [{"name": "Kenna, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/ralph-kenna"}, {"name": "MacCarron, P.", "link": null}], "date": "2 Jun 2016"}

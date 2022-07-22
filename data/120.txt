@@ -1,0 +1,1 @@
+{"title": "Sharing Design Information Using Peer-to-Peer Computing", "link": "https://pureportal.coventry.ac.uk/en/publications/sharing-design-information-using-peer-to-peer-computing", "authors": [{"name": "Thompson, P.", "link": null}, {"name": "James, A.", "link": null}, {"name": "Smalov, L.", "link": null}], "date": "2006"}

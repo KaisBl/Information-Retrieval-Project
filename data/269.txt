@@ -1,0 +1,1 @@
+{"title": "Non-reversible Monte Carlo simulations of spin models", "link": "https://pureportal.coventry.ac.uk/en/publications/non-reversible-monte-carlo-simulations-of-spin-models-2", "authors": [{"name": "Fernandes, H. C. M.", "link": null}, {"name": "Weigel, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/martin-weigel"}], "date": "24 Nov 2010"}

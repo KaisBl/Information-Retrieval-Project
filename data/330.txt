@@ -1,0 +1,1 @@
+{"title": "Ambient Systems and Taxonomy Approaches", "link": "https://pureportal.coventry.ac.uk/en/publications/ambient-systems-and-taxonomy-approaches", "authors": [{"name": "Konios, A.", "link": null}], "date": "Oct 2011"}

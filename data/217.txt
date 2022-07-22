@@ -1,0 +1,1 @@
+{"title": "Quantum nonequilibrium steady states induced by repeated interactions", "link": "https://pureportal.coventry.ac.uk/en/publications/quantum-nonequilibrium-steady-states-induced-by-repeated-interact-2", "authors": [{"name": "Karevski, D.", "link": null}, {"name": "Platini, T.", "link": "https://pureportal.coventry.ac.uk/en/persons/thierry-platini"}], "date": "2009"}

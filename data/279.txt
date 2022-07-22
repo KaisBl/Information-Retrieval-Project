@@ -1,0 +1,1 @@
+{"title": "Generalized-ensemble simulations and cluster algorithms", "link": "https://pureportal.coventry.ac.uk/en/publications/generalized-ensemble-simulations-and-cluster-algorithms-2", "authors": [{"name": "Weigel, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/martin-weigel"}], "date": "12 Feb 2010"}

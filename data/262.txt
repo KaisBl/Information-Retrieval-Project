@@ -1,0 +1,1 @@
+{"title": "Tackling Trust Issues in Virtual Organization Load Balancing", "link": "https://pureportal.coventry.ac.uk/en/publications/tackling-trust-issues-in-virtual-organization-load-balancing", "authors": [{"name": "Sanchez-Anguix, V.", "link": null}, {"name": "Valero, S.", "link": null}, {"name": "Garcia-Fornes, A.", "link": null}], "date": "2010"}

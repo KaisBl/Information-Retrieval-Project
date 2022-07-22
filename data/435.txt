@@ -1,0 +1,1 @@
+{"title": "A perceptual study into the behaviour of autonomous agents within a virtual urban environment", "link": "https://pureportal.coventry.ac.uk/en/publications/a-perceptual-study-into-the-behaviour-of-autonomous-agents-within", "authors": [{"name": "O'Connor, S.", "link": null}, {"name": "Liarokapis, F.", "link": null}, {"name": "Peters, C.", "link": null}], "date": "2013"}

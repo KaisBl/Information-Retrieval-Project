@@ -1,0 +1,1 @@
+{"title": "Singular behaviour of the Potts model in the thermodynamic limit", "link": "https://pureportal.coventry.ac.uk/en/publications/singular-behaviour-of-the-potts-model-in-the-thermodynamic-limit-2", "authors": [{"name": "Kenna, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/ralph-kenna"}], "date": "Apr 1998"}

@@ -1,0 +1,1 @@
+{"title": "Satisfaction-based Web service discovery and selection scheme utilizing vague sets theory", "link": "https://pureportal.coventry.ac.uk/en/publications/satisfaction-based-web-service-discovery-and-selection-scheme-uti-2", "authors": [{"name": "Wang, P.", "link": null}, {"name": "Chao, K-M.", "link": null}, {"name": "Lo, C-C.", "link": null}], "date": "2015"}

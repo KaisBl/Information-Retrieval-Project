@@ -1,0 +1,1 @@
+{"title": "A WiFi-Based Passive Sensing System for Human Presence and Activity Event Classification", "link": "https://pureportal.coventry.ac.uk/en/publications/a-wifi-based-passive-sensing-system-for-human-presence-and-activi", "authors": [{"name": "Li, W.", "link": null}, {"name": "Tan, B.", "link": null}, {"name": "Piechocki, R.", "link": null}], "date": "Dec 2018"}

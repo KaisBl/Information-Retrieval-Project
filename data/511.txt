@@ -1,0 +1,1 @@
+{"title": "A hybrid of bacterial foraging and differential evolution -based distance of sequences", "link": "https://pureportal.coventry.ac.uk/en/publications/a-hybrid-of-bacterial-foraging-and-differential-evolution-based-d", "authors": [{"name": "Fuad, M. M. M.", "link": "https://pureportal.coventry.ac.uk/en/persons/marwan-fuad"}], "date": "1 Jan 2014"}

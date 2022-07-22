@@ -1,0 +1,1 @@
+{"title": "Educational games - are they worth the effort? A literature survey of the effectiveness of serious games", "link": "https://pureportal.coventry.ac.uk/en/publications/educational-games-are-they-worth-the-effort-a-literature-survey-o-2", "authors": [{"name": "Backlund, P.", "link": null}, {"name": "Hendrix, M.", "link": null}], "date": "2013"}

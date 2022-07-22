@@ -1,0 +1,1 @@
+{"title": "Discrimination of neutron and photon signals using time and frequency domain data", "link": "https://pureportal.coventry.ac.uk/en/publications/discrimination-of-neutron-and-photon-signals-using-time-and-frequ", "authors": [{"name": "Amiri, M.", "link": null}, {"name": "\u010cech\u00e1k, J.", "link": null}, {"name": "Mat\u011bj, Z.", "link": null}], "date": "Apr 2012"}

@@ -1,0 +1,1 @@
+{"title": "Metamorphosis of helical magnetorotational instability in the presence of axial electric current", "link": "https://pureportal.coventry.ac.uk/en/publications/metamorphosis-of-helical-magnetorotational-instability-in-the-pre-2", "authors": [{"name": "Priede, J.", "link": "https://pureportal.coventry.ac.uk/en/persons/janis-priede"}], "date": "2015"}

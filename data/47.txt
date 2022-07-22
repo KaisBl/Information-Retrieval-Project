@@ -1,0 +1,1 @@
+{"title": "RMIT United", "link": "https://pureportal.coventry.ac.uk/en/publications/rmit-united-2", "authors": [{"name": "Brusey, J.", "link": "https://pureportal.coventry.ac.uk/en/persons/james-brusey"}, {"name": "Makies, M.", "link": null}, {"name": "Padgham, L.", "link": null}, {"name": "Woodvine, B.", "link": null}, {"name": "Fantone, K.", "link": null}], "date": "2001"}

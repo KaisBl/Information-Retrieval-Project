@@ -1,0 +1,1 @@
+{"title": "Low Power Sensing and Integrated Healthcare System within Smart Cities", "link": "https://pureportal.coventry.ac.uk/en/publications/low-power-sensing-and-integrated-healthcare-system-within-smart-c", "authors": [{"name": "Ghani, A.", "link": null}], "date": "2018"}

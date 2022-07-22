@@ -1,0 +1,1 @@
+{"title": "Fuzzy knowledge-based approach to treating uncertainty in inventory control", "link": "https://pureportal.coventry.ac.uk/en/publications/fuzzy-knowledge-based-approach-to-treating-uncertainty-in-invento", "authors": [{"name": "Petrovic, D.", "link": null}, {"name": "Sweeney, E.", "link": null}], "date": "Aug 1994"}

@@ -1,0 +1,1 @@
+{"title": "Selective Dropout for Deep Neural Networks", "link": "https://pureportal.coventry.ac.uk/en/publications/selective-dropout-for-deep-neural-networks-2", "authors": [{"name": "Barrow, E.", "link": null}, {"name": "Eastwood, M.", "link": null}, {"name": "Jayne, C.", "link": null}], "date": "29 Sep 2016"}

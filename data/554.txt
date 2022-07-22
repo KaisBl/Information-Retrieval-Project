@@ -1,0 +1,1 @@
+{"title": "Sentiment Classification via a Response Recalibration Framework", "link": "https://pureportal.coventry.ac.uk/en/publications/sentiment-classification-via-a-response-recalibration-framework-2", "authors": [{"name": "Smith, P.", "link": null}, {"name": "Lee, M.", "link": null}], "date": "2015"}

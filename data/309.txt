@@ -1,0 +1,1 @@
+{"title": "Model level combination of tree ensemble hyperboxes via GFMM", "link": "https://pureportal.coventry.ac.uk/en/publications/model-level-combination-of-tree-ensemble-hyperboxes-via-gfmm-2", "authors": [{"name": "Eastwood, M.", "link": null}, {"name": "Gabrys, B.", "link": null}], "date": "2011"}

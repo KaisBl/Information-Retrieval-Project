@@ -1,0 +1,1 @@
+{"title": "Data mining and serial documents", "link": "https://pureportal.coventry.ac.uk/en/publications/data-mining-and-serial-documents-2", "authors": [{"name": "Anane, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/rachid-anane"}], "date": "Aug 2001"}

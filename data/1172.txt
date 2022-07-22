@@ -1,0 +1,1 @@
+{"title": "Horizon Visibility Graphs and Time Series Merge Trees are Dual", "link": "https://pureportal.coventry.ac.uk/en/publications/horizon-visibility-graphs-and-time-series-merge-trees-are-dual", "authors": [{"name": "Stephen, C.", "link": "https://pureportal.coventry.ac.uk/en/persons/colin-stephen"}], "date": "20 Jun 2019"}

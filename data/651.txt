@@ -1,0 +1,1 @@
+{"title": "A Study of Unbalanced Magnetic Pull in Brushless Doubly Fed Machines", "link": "https://pureportal.coventry.ac.uk/en/publications/a-study-of-unbalanced-magnetic-pull-in-brushless-doubly-fed-machi", "authors": [{"name": "Abdi Jalebi, S.", "link": null}, {"name": "Abdi, E.", "link": null}, {"name": "McMahon, R.", "link": null}], "date": "Sep 2015"}

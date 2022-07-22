@@ -1,0 +1,1 @@
+{"title": "Phase behavior of symmetric linear multiblock copolymers", "link": "https://pureportal.coventry.ac.uk/en/publications/phase-behavior-of-symmetric-linear-multiblock-copolymers-2", "authors": [{"name": "Theodorakis, P. E.", "link": null}, {"name": "Fytas, N. G.", "link": "https://pureportal.coventry.ac.uk/en/persons/nikolaos-fytas"}], "date": "24 Feb 2011"}

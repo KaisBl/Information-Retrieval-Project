@@ -1,0 +1,1 @@
+{"title": "Impact of Policies for Plagiarism in Higher Education Across Europe: Results of the Project", "link": "https://pureportal.coventry.ac.uk/en/publications/impact-of-policies-for-plagiarism-in-higher-education-across-euro-2", "authors": [{"name": "Foltynek, T.", "link": null}, {"name": "Glendinning, I.", "link": null}], "date": "2015"}

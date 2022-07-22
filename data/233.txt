@@ -1,0 +1,1 @@
+{"title": "DSP-based bottleneck bandwidth estimation", "link": "https://pureportal.coventry.ac.uk/en/publications/dsp-based-bottleneck-bandwidth-estimation-2", "authors": [{"name": "Edwan, T.", "link": null}, {"name": "Ghita, B.", "link": null}, {"name": "Wang, X.", "link": "https://pureportal.coventry.ac.uk/en/persons/xingang-wang"}], "date": "2009"}

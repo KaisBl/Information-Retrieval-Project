@@ -1,0 +1,1 @@
+{"title": "Scaling and density of Lee-Yang zeros in the four-dimensional Ising model", "link": "https://pureportal.coventry.ac.uk/en/publications/scaling-and-density-of-lee-yang-zeros-in-the-four-dimensional-isi-2", "authors": [{"name": "Kenna, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/ralph-kenna"}, {"name": "Lang, C. B.", "link": null}], "date": "1 Jun 1994"}

@@ -1,0 +1,1 @@
+{"title": "Spaces of paths and the path topology", "link": "https://pureportal.coventry.ac.uk/en/publications/spaces-of-paths-and-the-path-topology-2", "authors": [{"name": "Low, R. J.", "link": null}], "date": "22 Sep 2016"}

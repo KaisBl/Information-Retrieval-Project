@@ -1,0 +1,1 @@
+{"title": "Digital data processing of stilbene", "link": "https://pureportal.coventry.ac.uk/en/publications/digital-data-processing-of-stilbene", "authors": [{"name": "Amiri, M.", "link": null}, {"name": "Cvachovec, F.", "link": null}, {"name": "Matej, Z.", "link": null}, {"name": "Mravec, F.", "link": null}, {"name": "Prenosil, V.", "link": null}], "date": "30 Jan 2014"}

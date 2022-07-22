@@ -1,0 +1,1 @@
+{"title": "A novel acceleration profile for the motion control of capsubots", "link": "https://pureportal.coventry.ac.uk/en/publications/a-novel-acceleration-profile-for-the-motion-control-of-capsubots", "authors": [{"name": "Yu, H.", "link": null}, {"name": "Huda, M. N.", "link": null}, {"name": "Wane, S. O.", "link": null}], "date": "15 Aug 2011"}

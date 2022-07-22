@@ -1,0 +1,1 @@
+{"title": "Lee-Yang zeroes and logarithmic corrections in the \u03a644 theory", "link": "https://pureportal.coventry.ac.uk/en/publications/lee-yang-zeroes-and-logarithmic-corrections-in-the-%CF%8644-theory-2", "authors": [{"name": "Kenna, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/ralph-kenna"}, {"name": "Lang, C. B.", "link": null}], "date": "Mar 1993"}

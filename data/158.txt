@@ -1,0 +1,1 @@
+{"title": "Challenges for large-scale implementations of spiking neural networks on FPGAs", "link": "https://pureportal.coventry.ac.uk/en/publications/challenges-for-large-scale-implementations-of-spiking-neural-netw", "authors": [{"name": "Ghani, A.", "link": null}], "date": "Dec 2007"}

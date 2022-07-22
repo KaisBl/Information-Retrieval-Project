@@ -1,0 +1,1 @@
+{"title": "MAMSY: A management tool for multi-agent systems", "link": "https://pureportal.coventry.ac.uk/en/publications/mamsy-a-management-tool-for-multi-agent-systems", "authors": [{"name": "Sanchez-Anguix, V.", "link": null}, {"name": "Espinosa, A.", "link": null}, {"name": "Hernandez, L.", "link": null}, {"name": "Garcia-Fornes, A.", "link": null}], "date": "2009"}

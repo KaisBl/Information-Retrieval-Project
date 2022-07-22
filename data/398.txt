@@ -1,0 +1,1 @@
+{"title": "Nanoplasmonic sensor for chemical measurements", "link": "https://pureportal.coventry.ac.uk/en/publications/nanoplasmonic-sensor-for-chemical-measurements", "authors": [{"name": "Iovine, R.", "link": null}, {"name": "La Spada, L.", "link": null}, {"name": "Vegni, L.", "link": null}], "date": "3 May 2013"}

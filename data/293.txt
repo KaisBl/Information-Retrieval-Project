@@ -1,0 +1,1 @@
+{"title": "Anomalous ordering in inhomogeneously strained materials", "link": "https://pureportal.coventry.ac.uk/en/publications/anomalous-ordering-in-inhomogeneously-strained-materials", "authors": [{"name": "del Genio, C.", "link": "https://pureportal.coventry.ac.uk/en/persons/charo-del-genio"}, {"name": "Bassler, K.", "link": null}], "date": "10 Sep 2010"}

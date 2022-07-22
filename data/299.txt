@@ -1,0 +1,1 @@
+{"title": "Self-contained capsubot propulsion mechanism", "link": "https://pureportal.coventry.ac.uk/en/publications/self-contained-capsubot-propulsion-mechanism", "authors": [{"name": "Huda, M. N.", "link": null}, {"name": "Yu, H. N.", "link": null}, {"name": "Wane, S. O.", "link": null}], "date": "12 Aug 2011"}

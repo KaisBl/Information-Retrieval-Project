@@ -1,0 +1,1 @@
+{"title": "OpenMath and SMT-LIB", "link": "https://pureportal.coventry.ac.uk/en/publications/openmath-and-smt-lib", "authors": [{"name": "Davenport, J. H.", "link": null}, {"name": "England, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/matthew-england"}, {"name": "Sebastiani, R.", "link": null}, {"name": "Trentin, P.", "link": null}], "date": "10 Jul 2017"}

@@ -1,0 +1,1 @@
+{"title": "Players\u2019 Performance in Cross Generational Game Playing", "link": "https://pureportal.coventry.ac.uk/en/publications/players-performance-in-cross-generational-game-playing", "authors": [{"name": "Awad, M.", "link": null}, {"name": "Craig, C.", "link": null}], "date": "2017"}

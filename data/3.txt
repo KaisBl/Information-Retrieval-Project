@@ -1,0 +1,1 @@
+{"title": "Testing and Validation of an Expert System for Advising on Spares for Maintenance Purposes", "link": "https://pureportal.coventry.ac.uk/en/publications/testing-and-validation-of-an-expert-system-for-advising-on-spares-2", "authors": [{"name": "Petrovic, R.", "link": null}, {"name": "Petrovic, D.", "link": null}], "date": "1994"}

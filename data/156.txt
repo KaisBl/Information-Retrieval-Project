@@ -1,0 +1,1 @@
+{"title": "Digital forensics: challenges and opportunities", "link": "https://pureportal.coventry.ac.uk/en/publications/digital-forensics-challenges-and-opportunities", "authors": [{"name": "Duce, D.", "link": null}, {"name": "Mitchell, F.", "link": "https://pureportal.coventry.ac.uk/en/persons/faye-mitchell"}, {"name": "Turner, P.", "link": null}], "date": "2007"}

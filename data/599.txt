@@ -1,0 +1,1 @@
+{"title": "Investigating vulnerabilities in GSM security", "link": "https://pureportal.coventry.ac.uk/en/publications/investigating-vulnerabilities-in-gsm-security-2", "authors": [{"name": "Pannu, M.", "link": null}, {"name": "Bird, R.", "link": null}, {"name": "Gill, B.", "link": null}, {"name": "Patel, K.", "link": null}], "date": "2015"}

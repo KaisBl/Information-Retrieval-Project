@@ -1,0 +1,1 @@
+{"title": "An Evidential Fusion Approach for Gender Profiling", "link": "https://pureportal.coventry.ac.uk/en/publications/an-evidential-fusion-approach-for-gender-profiling-2", "authors": [{"name": "Ma, J.", "link": null}, {"name": "Liu, W.", "link": null}, {"name": "Miller, P.", "link": null}, {"name": "Zhou, H.", "link": null}], "date": "Mar 2016"}

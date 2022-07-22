@@ -1,0 +1,1 @@
+{"title": "New methods to measure phase transition strength", "link": "https://pureportal.coventry.ac.uk/en/publications/new-methods-to-measure-phase-transition-strength-3", "authors": [{"name": "Janke, W.", "link": null}, {"name": "Johnston, D.", "link": null}, {"name": "Kenna, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/ralph-kenna"}], "date": "May 2003"}

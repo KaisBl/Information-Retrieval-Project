@@ -1,0 +1,1 @@
+{"title": "New mechanisms for reasoning and impacts accumulation for Rule Based Fuzzy Cognitive Maps", "link": "https://pureportal.coventry.ac.uk/en/publications/new-mechanisms-for-reasoning-and-impacts-accumulation-for-rule-ba", "authors": [{"name": "Zdanowicz, P.", "link": null}, {"name": "Petrovic, D.", "link": null}], "date": "22 Mar 2017"}

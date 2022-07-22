@@ -1,0 +1,1 @@
+{"title": "A fuzzy dynamic inoperability input-output model for strategic risk management in global production networks", "link": "https://pureportal.coventry.ac.uk/en/publications/a-fuzzy-dynamic-inoperability-input-output-model-for-strategic-ri-2", "authors": [{"name": "Niknejad, A.", "link": null}, {"name": "Petrovi\u0107, D.", "link": null}], "date": "Sep 2016"}

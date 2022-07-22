@@ -1,0 +1,1 @@
+{"title": "Lash", "link": "https://pureportal.coventry.ac.uk/en/publications/lash", "authors": [{"name": "Bentahar, K.", "link": "https://pureportal.coventry.ac.uk/en/persons/kamal-bentahar"}, {"name": "Silverman, JH.", "link": null}, {"name": "Saarinen, M. O.", "link": null}, {"name": "Smart, NP.", "link": null}], "date": "2006"}

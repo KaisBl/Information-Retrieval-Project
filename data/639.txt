@@ -1,0 +1,1 @@
+{"title": "Cyber resilience-by-construction: Modeling, measuring & verifying", "link": "https://pureportal.coventry.ac.uk/en/publications/cyber-resilience-by-construction-modeling-measuring-amp-verifying", "authors": [{"name": "Khan, Y. I.", "link": null}, {"name": "Al-Shaer, E.", "link": null}, {"name": "Rauf, U.", "link": null}], "date": "12 Oct 2015"}

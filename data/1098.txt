@@ -1,0 +1,1 @@
+{"title": "A new stator windings design for brushless doubly fed machines", "link": "https://pureportal.coventry.ac.uk/en/publications/a-new-stator-windings-design-for-brushless-doubly-fed-machines", "authors": [{"name": "Abdi Jalebi, S.", "link": null}, {"name": "McMahon, R.", "link": null}, {"name": "Abdi, E.", "link": null}], "date": "14 Feb 2018"}

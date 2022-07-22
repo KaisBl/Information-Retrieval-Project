@@ -1,0 +1,1 @@
+{"title": "Asymptotic properties of an HIV/AIDS model with a time delay", "link": "https://pureportal.coventry.ac.uk/en/publications/asymptotic-properties-of-an-hivaids-model-with-a-time-delay", "authors": [{"name": "Mukandavire, Z.", "link": null}, {"name": "Garira, W.", "link": null}, {"name": "Chiyaka, C.", "link": null}], "date": "15 Jun 2007"}

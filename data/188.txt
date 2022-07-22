@@ -1,0 +1,1 @@
+{"title": "In a spin - technology transfer", "link": "https://pureportal.coventry.ac.uk/en/publications/in-a-spin-technology-transfer", "authors": [{"name": "Hocking, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/matthew-hocking"}], "date": "2008"}

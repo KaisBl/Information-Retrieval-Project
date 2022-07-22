@@ -1,0 +1,1 @@
+{"title": "A Fast Learning Variable Lambda TD Model: Used to Realize Home Aware Robot Navigation", "link": "https://pureportal.coventry.ac.uk/en/publications/a-fast-learning-variable-lambda-td-model-used-to-realize-home-awa-2", "authors": [{"name": "Altahhan, A.", "link": null}], "date": "Jul 2014"}

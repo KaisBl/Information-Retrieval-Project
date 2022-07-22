@@ -1,0 +1,1 @@
+{"title": "Review on Heat Transfer Mechanisms and Characteristics in Encapsulated PCMs", "link": "https://pureportal.coventry.ac.uk/en/publications/review-on-heat-transfer-mechanisms-and-characteristics-in-encapsu-2", "authors": [{"name": "Liu, S.", "link": null}, {"name": "Li, Y.", "link": null}, {"name": "Zhang, Y.", "link": null}], "date": "2015"}

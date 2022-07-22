@@ -1,0 +1,1 @@
+{"title": "Fast Maximum Power Point Tracker for photovoltaic arrays", "link": "https://pureportal.coventry.ac.uk/en/publications/fast-maximum-power-point-tracker-for-photovoltaic-arrays", "authors": [{"name": "Debnath, A.", "link": null}, {"name": "Roy, S.", "link": null}, {"name": "Huda, M. N.", "link": null}, {"name": "Khan, M. Z. R.", "link": null}], "date": "2012"}

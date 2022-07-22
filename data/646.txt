@@ -1,0 +1,1 @@
+{"title": "Business and Industry Specific Cloud: Challenges and opportunities", "link": "https://pureportal.coventry.ac.uk/en/publications/business-and-industry-specific-cloud-challenges-and-opportunities-2", "authors": [{"name": "James, A.", "link": null}, {"name": "Chung, J-Y.", "link": null}], "date": "2015"}

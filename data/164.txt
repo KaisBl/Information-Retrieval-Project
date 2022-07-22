@@ -1,0 +1,1 @@
+{"title": "Work fluctuations in quantum spin chains", "link": "https://pureportal.coventry.ac.uk/en/publications/work-fluctuations-in-quantum-spin-chains-2", "authors": [{"name": "Dorosz, S.", "link": null}, {"name": "Platini, T.", "link": "https://pureportal.coventry.ac.uk/en/persons/thierry-platini"}, {"name": "Karevski, D.", "link": null}], "date": "2008"}

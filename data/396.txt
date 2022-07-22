@@ -1,0 +1,1 @@
+{"title": "Optimizing Verification of Structurally Evolving Algebraic Petri Nets", "link": "https://pureportal.coventry.ac.uk/en/publications/optimizing-verification-of-structurally-evolving-algebraic-petri-", "authors": [{"name": "Khan, Y. I.", "link": null}], "date": "2013"}

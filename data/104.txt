@@ -1,0 +1,1 @@
+{"title": "Simulations of the F model on planar \u03c6 4 Feynman diagrams", "link": "https://pureportal.coventry.ac.uk/en/publications/simulations-of-the-f-model-on-planar-%CF%86-4-feynman-diagrams-2", "authors": [{"name": "Janke, W.", "link": null}, {"name": "Weigel, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/martin-weigel"}], "date": "2005"}

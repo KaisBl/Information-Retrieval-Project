@@ -1,0 +1,1 @@
+{"title": "Students as Customers: Participatory Design for Adaptive Web 3.0", "link": "https://pureportal.coventry.ac.uk/en/publications/students-as-customers-participatory-design-for-adaptive-web-30-2", "authors": [{"name": "Shi, L.", "link": null}, {"name": "Cristea, A.", "link": null}, {"name": "Stewart, C.", "link": null}], "date": "2015"}

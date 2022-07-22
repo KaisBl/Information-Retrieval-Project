@@ -1,0 +1,1 @@
+{"title": "Improving record matching in imprecise and uncertain datasets", "link": "https://pureportal.coventry.ac.uk/en/publications/improving-record-matching-in-imprecise-and-uncertain-datasets", "authors": [{"name": "Croft, D.", "link": null}], "date": "2012"}

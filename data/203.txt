@@ -1,0 +1,1 @@
+{"title": "A spiral model for adding automatic, adaptive authoring to adaptive hypermedia", "link": "https://pureportal.coventry.ac.uk/en/publications/a-spiral-model-for-adding-automatic-adaptive-authoring-to-adaptiv-2", "authors": [{"name": "Hendrix, M.", "link": null}, {"name": "Cristea, A.", "link": null}], "date": "2008"}

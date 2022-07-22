@@ -1,0 +1,1 @@
+{"title": "Curiosity and engagement of postgraduate students in project management through creative game programming & design.", "link": "https://pureportal.coventry.ac.uk/en/publications/curiosity-and-engagement-of-postgraduate-students-in-project-mana", "authors": [{"name": "Hocking, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/matthew-hocking"}], "date": "2019"}

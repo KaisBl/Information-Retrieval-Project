@@ -1,0 +1,1 @@
+{"title": "Modelling Activities of Daily Living with Petri nets", "link": "https://pureportal.coventry.ac.uk/en/publications/modelling-activities-of-daily-living-with-petri-nets", "authors": [{"name": "Garcia-Constantino, M.", "link": null}, {"name": "Konios, A.", "link": null}, {"name": "Nugent, C.", "link": null}], "date": "8 Oct 2018"}

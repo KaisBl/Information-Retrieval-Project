@@ -1,0 +1,1 @@
+{"title": "Autonomous vehicle security", "link": "https://pureportal.coventry.ac.uk/en/publications/autonomous-vehicle-security-2", "authors": [{"name": "Cheah, M.", "link": null}, {"name": "Shaikh, S. A.", "link": "https://pureportal.coventry.ac.uk/en/persons/siraj-shaikh"}], "date": "2015"}

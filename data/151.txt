@@ -1,0 +1,1 @@
+{"title": "Modelling circumcision and condom use as HIV/AIDS preventive control strategies", "link": "https://pureportal.coventry.ac.uk/en/publications/modelling-circumcision-and-condom-use-as-hivaids-preventive-contr", "authors": [{"name": "Mukandavire, Z.", "link": null}, {"name": "Bowa, K.", "link": null}, {"name": "Garira, W.", "link": null}], "date": "Dec 2007"}

@@ -1,0 +1,1 @@
+{"title": "Design of a simple reliable voter for modular redundancy implementations", "link": "https://pureportal.coventry.ac.uk/en/publications/design-of-a-simple-reliable-voter-for-modular-redundancy-implemen", "authors": [{"name": "Amiri, M.", "link": null}, {"name": "Prenosil, V.", "link": null}], "date": "May 2013"}

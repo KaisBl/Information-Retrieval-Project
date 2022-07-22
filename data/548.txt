@@ -1,0 +1,1 @@
+{"title": "Special Issue: Quality of Service in Grid and Cloud 2015", "link": "https://pureportal.coventry.ac.uk/en/publications/special-issue-quality-of-service-in-grid-and-cloud-2015-2", "authors": [{"name": "James, A.", "link": null}, {"name": "Yaacob, N.", "link": null}], "date": "Sep 2015"}

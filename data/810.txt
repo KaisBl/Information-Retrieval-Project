@@ -1,0 +1,1 @@
+{"title": "Applications of a finite-volume algorithm for incompressible MHD problems", "link": "https://pureportal.coventry.ac.uk/en/publications/applications-of-a-finite-volume-algorithm-for-incompressible-mhd-", "authors": [{"name": "Vantieghem, S.", "link": null}, {"name": "Sheyko, A.", "link": null}, {"name": "Jackson, A.", "link": null}], "date": "2016"}

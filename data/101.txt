@@ -1,0 +1,1 @@
+{"title": "Towards robust part tracking in an automated manufacturing process using RFID", "link": "https://pureportal.coventry.ac.uk/en/publications/towards-robust-part-tracking-in-an-automated-manufacturing-proces-2", "authors": [{"name": "Brusey, J.", "link": "https://pureportal.coventry.ac.uk/en/persons/james-brusey"}, {"name": "McFarlane, D.", "link": null}], "date": "2005"}

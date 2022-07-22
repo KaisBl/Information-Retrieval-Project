@@ -1,0 +1,1 @@
+{"title": "EOQ formula when inventory cost is fuzzy", "link": "https://pureportal.coventry.ac.uk/en/publications/eoq-formula-when-inventory-cost-is-fuzzy", "authors": [{"name": "Vujo\u0161evi\u0107, M.", "link": null}, {"name": "Petrovic, D.", "link": null}, {"name": "Petrovi\u0107, R.", "link": null}], "date": "1 Aug 1996"}

@@ -1,0 +1,1 @@
+{"title": "Towards a faster symbolic aggregate approximation method", "link": "https://pureportal.coventry.ac.uk/en/publications/towards-a-faster-symbolic-aggregate-approximation-method", "authors": [{"name": "Muhammad Fuad, M. M.", "link": "https://pureportal.coventry.ac.uk/en/persons/marwan-fuad"}, {"name": "Marteau, P. F.", "link": null}], "date": "1 Dec 2010"}

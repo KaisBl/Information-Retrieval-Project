@@ -1,0 +1,1 @@
+{"title": "Linear stability of buoyant convective flow in a vertical channel with internal heat sources and a transverse magnetic field", "link": "https://pureportal.coventry.ac.uk/en/publications/linear-stability-of-buoyant-convective-flow-in-a-vertical-channel-2", "authors": [{"name": "Hudoba, A.", "link": null}, {"name": "Molokov, S.", "link": null}], "date": "21 Nov 2016"}

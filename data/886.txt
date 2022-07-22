@@ -1,0 +1,1 @@
+{"title": "Population Coding for Neuromorphic Hardware", "link": "https://pureportal.coventry.ac.uk/en/publications/population-coding-for-neuromorphic-hardware-2", "authors": [{"name": "Khan, S. Q.", "link": null}, {"name": "Ghani, A.", "link": null}, {"name": "Khurram, M.", "link": null}], "date": "24 May 2017"}

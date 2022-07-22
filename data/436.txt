@@ -1,0 +1,1 @@
+{"title": "A negotiation approach for energy-aware room allocation systems", "link": "https://pureportal.coventry.ac.uk/en/publications/a-negotiation-approach-for-energy-aware-room-allocation-systems", "authors": [{"name": "Esparcia, S.", "link": null}, {"name": "S\u00e1nchez-Anguix, V.", "link": null}, {"name": "Aydogan, R.", "link": null}], "date": "2013"}

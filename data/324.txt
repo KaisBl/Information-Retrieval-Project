@@ -1,0 +1,1 @@
+{"title": "A Robot Visual Homing Model that Traverses Conjugate Gradient TD to a Variable \u03bb TD and Uses Radial Basis Features", "link": "https://pureportal.coventry.ac.uk/en/publications/a-robot-visual-homing-model-that-traverses-conjugate-gradient-td--2", "authors": [{"name": "Altahhan, A.", "link": null}], "date": "14 Jan 2011"}

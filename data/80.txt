@@ -1,0 +1,1 @@
+{"title": "Information geometry of the spherical model", "link": "https://pureportal.coventry.ac.uk/en/publications/information-geometry-of-the-spherical-model-2", "authors": [{"name": "Janke, W.", "link": null}, {"name": "Johnston, D. A.", "link": null}, {"name": "Kenna, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/ralph-kenna"}], "date": "14 Apr 2003"}

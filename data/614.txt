@@ -1,0 +1,1 @@
+{"title": "Group-based Parallel Multi-scheduler for Grid computing", "link": "https://pureportal.coventry.ac.uk/en/publications/group-based-parallel-multi-scheduler-for-grid-computing-2", "authors": [{"name": "Abraham, G. T.", "link": null}, {"name": "James, A.", "link": null}, {"name": "Yaacob, N.", "link": null}], "date": "Sep 2015"}

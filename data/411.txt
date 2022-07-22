@@ -1,0 +1,1 @@
+{"title": "From hobby to healthy", "link": "https://pureportal.coventry.ac.uk/en/publications/from-hobby-to-healthy-2", "authors": [{"name": "Arnab, S.", "link": "https://pureportal.coventry.ac.uk/en/persons/sylvester-arnab"}], "date": "2013"}

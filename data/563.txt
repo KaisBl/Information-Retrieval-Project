@@ -1,0 +1,1 @@
+{"title": "Rational Partial Choice Functions and Their Application to Belief Revision", "link": "https://pureportal.coventry.ac.uk/en/publications/rational-partial-choice-functions-and-their-application-to-belief-2", "authors": [{"name": "Ma, J.", "link": null}, {"name": "Liu, W.", "link": null}, {"name": "Dubois, D.", "link": null}], "date": "3 Nov 2015"}

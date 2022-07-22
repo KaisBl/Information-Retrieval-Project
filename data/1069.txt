@@ -1,0 +1,1 @@
+{"title": "Electromagnetic nanoparticles for sensing and medical diagnostic applications", "link": "https://pureportal.coventry.ac.uk/en/publications/electromagnetic-nanoparticles-for-sensing-and-medical-diagnostic-", "authors": [{"name": "La Spada, L.", "link": null}, {"name": "Vegni, L.", "link": null}], "date": "13 Apr 2018"}

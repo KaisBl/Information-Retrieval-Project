@@ -1,0 +1,1 @@
+{"title": "Techniques for obtaining robust, real-time, colour-based vision for robotics", "link": "https://pureportal.coventry.ac.uk/en/publications/techniques-for-obtaining-robust-real-time-colour-based-vision-for-2", "authors": [{"name": "Brusey, J.", "link": "https://pureportal.coventry.ac.uk/en/persons/james-brusey"}, {"name": "Padgham, L.", "link": null}], "date": "2000"}

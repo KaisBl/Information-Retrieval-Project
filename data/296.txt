@@ -1,0 +1,1 @@
+{"title": "Wireless sensor networks: Evaluation of power consumption and lifetime bounds", "link": "https://pureportal.coventry.ac.uk/en/publications/wireless-sensor-networks-evaluation-of-power-consumption-and-life", "authors": [{"name": "Amiri, M.", "link": null}], "date": "25 Nov 2011"}

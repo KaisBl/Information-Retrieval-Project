@@ -1,0 +1,1 @@
+{"title": "Implicit predictive indicators: Mouse activity and dwell time", "link": "https://pureportal.coventry.ac.uk/en/publications/implicit-predictive-indicators-mouse-activity-and-dwell-time-2", "authors": [{"name": "Akuma, S.", "link": null}, {"name": "Jayne, C.", "link": null}, {"name": "Iqbal, R.", "link": null}, {"name": "Doctor, F.", "link": null}], "date": "2014"}

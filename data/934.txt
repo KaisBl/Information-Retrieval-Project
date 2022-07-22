@@ -1,0 +1,1 @@
+{"title": "Energy Conscious Adaptive Security Scheme: A reliability-based Stochastic Approach", "link": "https://pureportal.coventry.ac.uk/en/publications/energy-conscious-adaptive-security-scheme-a-reliability-based-sto-2", "authors": [{"name": "Taramonli, S.", "link": null}, {"name": "Leeson, M. S.", "link": null}, {"name": "Green, R.", "link": null}], "date": "5 Jan 2017"}

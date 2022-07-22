@@ -1,0 +1,1 @@
+{"title": "Evaluation of Lifetime Bounds of Wireless Sensor Networks", "link": "https://pureportal.coventry.ac.uk/en/publications/evaluation-of-lifetime-bounds-of-wireless-sensor-networks", "authors": [{"name": "Amiri, M.", "link": null}], "date": "8 Nov 2010"}

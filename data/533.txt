@@ -1,0 +1,1 @@
+{"title": "The Role of the Researcher in Making Serious Games for Health", "link": "https://pureportal.coventry.ac.uk/en/publications/the-role-of-the-researcher-in-making-serious-games-for-health-2", "authors": [{"name": "Kato, P.", "link": null}], "date": "2015"}

@@ -1,0 +1,1 @@
+{"title": "Domain-wall excitations in the two-dimensional Ising spin glass", "link": "https://pureportal.coventry.ac.uk/en/publications/domain-wall-excitations-in-the-two-dimensional-ising-spin-glass", "authors": [{"name": "Khoshbakht, H.", "link": null}, {"name": "Weigel, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/martin-weigel"}], "date": "16 Feb 2018"}

@@ -1,0 +1,1 @@
+{"title": "An operational research-based integrated approach for mass evacuation planning of a city", "link": "https://pureportal.coventry.ac.uk/en/publications/an-operational-research-based-integrated-approach-for-mass-evacua", "authors": [{"name": "Nagarajan, M.", "link": null}], "date": "1 Feb 2014"}

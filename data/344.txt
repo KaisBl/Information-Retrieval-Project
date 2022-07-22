@@ -1,0 +1,1 @@
+{"title": "Sensor design for cancer tissue diagnostics", "link": "https://pureportal.coventry.ac.uk/en/publications/sensor-design-for-cancer-tissue-diagnostics", "authors": [{"name": "La Spada, L.", "link": null}, {"name": "Bilotti, F.", "link": null}, {"name": "Vegni, L.", "link": null}], "date": "8 May 2012"}

@@ -1,0 +1,1 @@
+{"title": "Cross-Layer Multipath Multichannel MAC protocol for MANETs", "link": "https://pureportal.coventry.ac.uk/en/publications/cross-layer-multipath-multichannel-mac-protocol-for-manets", "authors": [{"name": "Abdelshafy, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/mohamed-abdelshafy"}], "date": "Jun 2018"}

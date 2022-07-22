@@ -1,0 +1,1 @@
+{"title": "HIV/AIDS Model for assessing the effects of prophylactic sterilizing vaccines, condoms and treatment with amelioration", "link": "https://pureportal.coventry.ac.uk/en/publications/hivaids-model-for-assessing-the-effects-of-prophylactic-sterilizi", "authors": [{"name": "MUKANDAVIRE, Z.", "link": null}, {"name": "GARIRA, W.", "link": null}], "date": "Sep 2006"}

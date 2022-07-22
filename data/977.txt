@@ -1,0 +1,1 @@
+{"title": "A New Space Vector Approach to Detect Stator Faults in Induction Motors", "link": "https://pureportal.coventry.ac.uk/en/publications/a-new-space-vector-approach-to-detect-stator-faults-in-induction-", "authors": [{"name": "Gyftakis, K.", "link": null}, {"name": "Cardoso, A. J. M.", "link": null}], "date": "15 Jun 2017"}

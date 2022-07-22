@@ -1,0 +1,1 @@
+{"title": "Modeling HIV/AIDS and tuberculosis coinfection", "link": "https://pureportal.coventry.ac.uk/en/publications/modeling-hivaids-and-tuberculosis-coinfection", "authors": [{"name": "Bhunu, C. P.", "link": null}, {"name": "Garira, W.", "link": null}, {"name": "Mukandavire, Z.", "link": null}], "date": "Oct 2009"}

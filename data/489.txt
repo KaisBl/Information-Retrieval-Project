@@ -1,0 +1,1 @@
+{"title": "Demo Abstract:  Data Center Monitoring on a Budget", "link": "https://pureportal.coventry.ac.uk/en/publications/demo-abstract-data-center-monitoring-on-a-budget", "authors": [{"name": "Haban, P.", "link": null}, {"name": "Mitchell, F.", "link": "https://pureportal.coventry.ac.uk/en/persons/faye-mitchell"}, {"name": "Sengul, C.", "link": null}], "date": "2014"}

@@ -1,0 +1,1 @@
+{"title": "Optical Properties of Modified Nanorod Particles for Biomedical Sensing", "link": "https://pureportal.coventry.ac.uk/en/publications/optical-properties-of-modified-nanorod-particles-for-biomedical-s", "authors": [{"name": "Iovine, R.", "link": null}, {"name": "La Spada, L.", "link": null}, {"name": "Vegni, L.", "link": null}], "date": "2014"}

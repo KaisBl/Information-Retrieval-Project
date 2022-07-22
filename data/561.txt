@@ -1,0 +1,1 @@
+{"title": "Relaxation: from Laplace's equation to the heat equation and discretely back again", "link": "https://pureportal.coventry.ac.uk/en/publications/relaxation-from-laplaces-equation-to-the-heat-equation-and-discre-2", "authors": [{"name": "Low, R.", "link": null}], "date": "2015"}

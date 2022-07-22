@@ -1,0 +1,1 @@
+{"title": "Frustration effects in antiferromagnets on planar random graphs", "link": "https://pureportal.coventry.ac.uk/en/publications/frustration-effects-in-antiferromagnets-on-planar-random-graphs-2", "authors": [{"name": "Weigel, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/martin-weigel"}, {"name": "Johnston, D.", "link": null}], "date": "3 Aug 2007"}

@@ -1,0 +1,1 @@
+{"title": "Sinkhorn Divergence of Topological Signature Estimates for Time Series Classification", "link": "https://pureportal.coventry.ac.uk/en/publications/sinkhorn-divergence-of-topological-signature-estimates-for-time-s", "authors": [{"name": "Stephen, C.", "link": "https://pureportal.coventry.ac.uk/en/persons/colin-stephen"}], "date": "17 Jan 2019"}

@@ -1,0 +1,1 @@
+{"title": "Rust detection - the SciSite method", "link": "https://pureportal.coventry.ac.uk/en/publications/rust-detection-the-scisite-method", "authors": [{"name": "Hocking, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/matthew-hocking"}], "date": "2008"}

@@ -1,0 +1,1 @@
+{"title": "FPGA design of a pulse encoder for optoelectronic neural stimulation and recording arrays", "link": "https://pureportal.coventry.ac.uk/en/publications/fpga-design-of-a-pulse-encoder-for-optoelectronic-neural-stimulat", "authors": [{"name": "Ghani, A.", "link": null}], "date": "2013"}

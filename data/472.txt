@@ -1,0 +1,1 @@
+{"title": "Improving record matching across disparate historical resources", "link": "https://pureportal.coventry.ac.uk/en/publications/improving-record-matching-across-disparate-historical-resources", "authors": [{"name": "Croft, D.", "link": null}, {"name": "Brown, S. C.", "link": null}, {"name": "Coupland, S.", "link": null}], "date": "2014"}

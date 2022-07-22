@@ -1,0 +1,1 @@
+{"title": "The evolution of blockchain: A bibliometric study", "link": "https://pureportal.coventry.ac.uk/en/publications/the-evolution-of-blockchain-a-bibliometric-study", "authors": [{"name": "Dabbagh, M.", "link": null}, {"name": "Sookhak, M.", "link": null}, {"name": "Safa, N. S.", "link": null}], "date": "29 Jan 2019"}

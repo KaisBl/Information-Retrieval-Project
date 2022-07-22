@@ -1,0 +1,1 @@
+{"title": "The agent programming language meta-APL", "link": "https://pureportal.coventry.ac.uk/en/publications/the-agent-programming-language-meta-apl", "authors": [{"name": "Doan, T.", "link": "https://pureportal.coventry.ac.uk/en/persons/trang-doan"}, {"name": "Logan, B.", "link": null}, {"name": "Alechina, N.", "link": null}], "date": "2011"}

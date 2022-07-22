@@ -1,0 +1,1 @@
+{"title": "A Hybrid Neural Emotion Recogniser for Human-Robotic Agent Interaction", "link": "https://pureportal.coventry.ac.uk/en/publications/a-hybrid-neural-emotion-recogniser-for-human-robotic-agent-intera", "authors": [{"name": "Traista, A.", "link": null}, {"name": "Elshaw, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/mark-elshaw"}], "date": "2012"}

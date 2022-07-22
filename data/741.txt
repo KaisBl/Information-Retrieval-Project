@@ -1,0 +1,1 @@
+{"title": "Need Polynomial Systems Be Doubly-Exponential?", "link": "https://pureportal.coventry.ac.uk/en/publications/need-polynomial-systems-be-doubly-exponential-2", "authors": [{"name": "Davenport, J. H.", "link": null}, {"name": "England, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/matthew-england"}], "date": "6 Jul 2016"}

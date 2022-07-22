@@ -1,0 +1,1 @@
+{"title": "Energy Conscious Adaptive Security Scheme for Optical Wireless", "link": "https://pureportal.coventry.ac.uk/en/publications/energy-conscious-adaptive-security-scheme-for-optical-wireless", "authors": [{"name": "Taramonli, S.", "link": null}], "date": "2 Jul 2012"}

@@ -1,0 +1,1 @@
+{"title": "A non-sequential representation of sequential data for churn prediction", "link": "https://pureportal.coventry.ac.uk/en/publications/a-non-sequential-representation-of-sequential-data-for-churn-pred-2", "authors": [{"name": "Eastwood, M.", "link": null}, {"name": "Gabrys, B.", "link": null}], "date": "2009"}

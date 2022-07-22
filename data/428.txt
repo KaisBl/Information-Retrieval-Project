@@ -1,0 +1,1 @@
+{"title": "Data Mining for Gender Differences in Tinnitus", "link": "https://pureportal.coventry.ac.uk/en/publications/data-mining-for-gender-differences-in-tinnitus", "authors": [{"name": "Oakes, M.", "link": null}, {"name": "Anwar, M.", "link": null}, {"name": "Panchev, C.", "link": "https://pureportal.coventry.ac.uk/en/persons/christo-panchev"}], "date": "2013"}

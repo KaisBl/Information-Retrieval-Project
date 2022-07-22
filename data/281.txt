@@ -1,0 +1,1 @@
+{"title": "Error estimation and reduction with cross correlations", "link": "https://pureportal.coventry.ac.uk/en/publications/error-estimation-and-reduction-with-cross-correlations-2", "authors": [{"name": "Weigel, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/martin-weigel"}, {"name": "Janke, W.", "link": null}], "date": "8 Jun 2010"}

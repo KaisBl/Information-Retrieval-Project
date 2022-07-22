@@ -1,0 +1,1 @@
+{"title": "Endemic infections are always possible on regular networks", "link": "https://pureportal.coventry.ac.uk/en/publications/endemic-infections-are-always-possible-on-regular-networks", "authors": [{"name": "del Genio, C.", "link": "https://pureportal.coventry.ac.uk/en/persons/charo-del-genio"}, {"name": "House, T.", "link": null}], "date": "25 Oct 2013"}

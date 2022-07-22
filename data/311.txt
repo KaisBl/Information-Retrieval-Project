@@ -1,0 +1,1 @@
+{"title": "Metamaterial-based sensor design working in infrared frequency range", "link": "https://pureportal.coventry.ac.uk/en/publications/metamaterial-based-sensor-design-working-in-infrared-frequency-ra", "authors": [{"name": "La Spada, L.", "link": null}, {"name": "Bilotti, F.", "link": null}, {"name": "Vegni, L.", "link": null}], "date": "1 Dec 2011"}

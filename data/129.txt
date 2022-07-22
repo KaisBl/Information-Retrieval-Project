@@ -1,0 +1,1 @@
+{"title": "Non-destructive Detection of Corrosion in Steel Reinforcement", "link": "https://pureportal.coventry.ac.uk/en/publications/non-destructive-detection-of-corrosion-in-steel-reinforcement-2", "authors": [{"name": "Hocking, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/matthew-hocking"}], "date": "2006"}

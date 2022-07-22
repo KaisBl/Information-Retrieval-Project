@@ -1,0 +1,1 @@
+{"title": "Log-likelihood Clustering Enabled Passive RF Sensing for Residential Activity Recognition", "link": "https://pureportal.coventry.ac.uk/en/publications/log-likelihood-clustering-enabled-passive-rf-sensing-for-resident", "authors": [{"name": "Tan, B.", "link": null}, {"name": "Li, W.", "link": null}, {"name": "Piechocki, R.", "link": null}], "date": "1 Jul 2018"}

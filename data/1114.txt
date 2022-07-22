@@ -1,0 +1,1 @@
+{"title": "A Case Study - Solar Powered Metro in UAE", "link": "https://pureportal.coventry.ac.uk/en/publications/a-case-study-solar-powered-metro-in-uae", "authors": [{"name": "Viswambharan, V. K.", "link": null}, {"name": "Ghani, A.", "link": null}, {"name": "Kumar, V.", "link": null}, {"name": "Amjad, K.", "link": null}], "date": "16 Apr 2018"}

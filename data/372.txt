@@ -1,0 +1,1 @@
+{"title": "V-ROOM: Virtual meeting system trial", "link": "https://pureportal.coventry.ac.uk/en/publications/v-room-virtual-meeting-system-trial", "authors": [{"name": "Thompson, P.", "link": null}, {"name": "James, A.", "link": null}, {"name": "Nanos, A.", "link": null}], "date": "16 Aug 2013"}

@@ -1,0 +1,1 @@
+{"title": "Towards agent-based negotiation teams", "link": "https://pureportal.coventry.ac.uk/en/publications/towards-agent-based-negotiation-teams", "authors": [{"name": "Sanchez-Anguix, V.", "link": null}, {"name": "Julian, V.", "link": null}, {"name": "Botti, V.", "link": null}, {"name": "Garcia-Fornes, A.", "link": null}], "date": "2010"}

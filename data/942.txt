@@ -1,0 +1,1 @@
+{"title": "Digital forensics and the GDPR: examining corporate readiness", "link": "https://pureportal.coventry.ac.uk/en/publications/digital-forensics-and-the-gdpr-examining-corporate-readiness", "authors": [{"name": "Taramonli, S.", "link": null}, {"name": "Bird, R.", "link": null}], "date": "2 Apr 2017"}

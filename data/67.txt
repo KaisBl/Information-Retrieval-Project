@@ -1,0 +1,1 @@
+{"title": "Algorithmic tools for simulations of vertex models on random graphs", "link": "https://pureportal.coventry.ac.uk/en/publications/algorithmic-tools-for-simulations-of-vertex-models-on-random-grap-2", "authors": [{"name": "Weigel, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/martin-weigel"}, {"name": "Janke, W.", "link": null}], "date": "Mar 2002"}

@@ -1,0 +1,1 @@
+{"title": "Artificial Intelligence", "link": "https://pureportal.coventry.ac.uk/en/publications/artificial-intelligence", "authors": [{"name": "Shah, H.", "link": "https://pureportal.coventry.ac.uk/en/persons/huma-shah"}, {"name": "Warwick, K.", "link": "https://pureportal.coventry.ac.uk/en/persons/kevin-warwick"}], "date": "11 Oct 2017"}

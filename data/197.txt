@@ -1,0 +1,1 @@
+{"title": "Consumer-centric QoS-aware selection of web services", "link": "https://pureportal.coventry.ac.uk/en/publications/consumer-centric-qos-aware-selection-of-web-services-2", "authors": [{"name": "Lin, W-L.", "link": null}, {"name": "Lo, C-C.", "link": null}, {"name": "Chao, K-M.", "link": null}, {"name": "Younas, M.", "link": null}], "date": "Mar 2008"}

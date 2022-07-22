@@ -1,0 +1,1 @@
+{"title": "Classification of Solutions to the Plane Extremal Distance Problem for Bodies With Smooth Boundaries", "link": "https://pureportal.coventry.ac.uk/en/publications/classification-of-solutions-to-the-plane-extremal-distance-proble-2", "authors": [{"name": "Damerau, J.", "link": null}, {"name": "Low, R. J.", "link": null}], "date": "Nov 2016"}

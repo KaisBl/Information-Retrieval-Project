@@ -1,0 +1,1 @@
+{"title": "Closed-loop neural network controlled accelerorneter", "link": "https://pureportal.coventry.ac.uk/en/publications/closed-loop-neural-network-controlled-accelerorneter", "authors": [{"name": "Gaura, E. I.", "link": "https://pureportal.coventry.ac.uk/en/persons/elena-gaura"}, {"name": "Rider, R. J.", "link": null}, {"name": "Steele, N.", "link": null}], "date": "2000"}

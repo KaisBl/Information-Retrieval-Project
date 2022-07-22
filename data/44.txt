@@ -1,0 +1,1 @@
+{"title": "Weakly coupled Gross-Neveu model with Wilson fermions", "link": "https://pureportal.coventry.ac.uk/en/publications/weakly-coupled-gross-neveu-model-with-wilson-fermions-2", "authors": [{"name": "Kenna, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/ralph-kenna"}, {"name": "Sexton, J. C.", "link": null}], "date": "3 Dec 2001"}

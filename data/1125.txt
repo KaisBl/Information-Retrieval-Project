@@ -1,0 +1,1 @@
+{"title": "Terrorism and social media: global evidence", "link": "https://pureportal.coventry.ac.uk/en/publications/terrorism-and-social-media-global-evidence", "authors": [{"name": "Asongu, S.", "link": null}, {"name": "Orim, S-M.", "link": null}, {"name": "Nting, R. T.", "link": null}], "date": "2019"}

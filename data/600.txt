@@ -1,0 +1,1 @@
+{"title": "Invasive weed classification", "link": "https://pureportal.coventry.ac.uk/en/publications/invasive-weed-classification-2", "authors": [{"name": "Razavi-Far, R.", "link": null}, {"name": "Palade, V.", "link": "https://pureportal.coventry.ac.uk/en/persons/vasile-palade"}, {"name": "Zio, E.", "link": null}], "date": "Apr 2015"}

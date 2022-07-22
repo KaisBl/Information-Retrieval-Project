@@ -1,0 +1,1 @@
+{"title": "Priority-grouping method for parallel multi-scheduling in Grid", "link": "https://pureportal.coventry.ac.uk/en/publications/priority-grouping-method-for-parallel-multi-scheduling-in-grid-2", "authors": [{"name": "Abraham, G. T.", "link": null}, {"name": "James, A.", "link": null}, {"name": "Yaacob, N.", "link": null}], "date": "Sep 2015"}

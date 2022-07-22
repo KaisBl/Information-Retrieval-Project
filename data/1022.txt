@@ -1,0 +1,1 @@
+{"title": "Quantum repeated interactions and the chaos game", "link": "https://pureportal.coventry.ac.uk/en/publications/quantum-repeated-interactions-and-the-chaos-game", "authors": [{"name": "Platini, T.", "link": "https://pureportal.coventry.ac.uk/en/persons/thierry-platini"}, {"name": "Low, R.", "link": null}], "date": "28 Aug 2018"}

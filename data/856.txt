@@ -1,0 +1,1 @@
+{"title": "The large-m limit, and spin liquid correlations in kagome-like spin models", "link": "https://pureportal.coventry.ac.uk/en/publications/the-large-m-limit-and-spin-liquid-correlations-in-kagome-like-spi-2", "authors": [{"name": "Yavors'kii, T.", "link": "https://pureportal.coventry.ac.uk/en/persons/taras-yavorskyi"}], "date": "2017"}

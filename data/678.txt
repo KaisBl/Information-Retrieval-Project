@@ -1,0 +1,1 @@
+{"title": "V-ROOM: a virtual meeting system with intelligent structured summarisation", "link": "https://pureportal.coventry.ac.uk/en/publications/v-room-a-virtual-meeting-system-with-intelligent-structured-summa-2", "authors": [{"name": "james, A.", "link": null}, {"name": "Nanos, A. G.", "link": null}, {"name": "Thompson, P.", "link": null}], "date": "2016"}

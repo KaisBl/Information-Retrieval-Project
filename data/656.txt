@@ -1,0 +1,1 @@
+{"title": "Application of digital signal processing in discrimination of neutrons and gamma rays", "link": "https://pureportal.coventry.ac.uk/en/publications/application-of-digital-signal-processing-in-discrimination-of-neu", "authors": [{"name": "Amiri, M.", "link": null}, {"name": "P\u0159enosil, V.", "link": null}], "date": "Jul 2015"}

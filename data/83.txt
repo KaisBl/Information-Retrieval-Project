@@ -1,0 +1,1 @@
+{"title": "Effects of Connectivity Disorder on the Potts Model", "link": "https://pureportal.coventry.ac.uk/en/publications/effects-of-connectivity-disorder-on-the-potts-model-4", "authors": [{"name": "Janke, W.", "link": null}, {"name": "Weigel, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/martin-weigel"}], "date": "2003"}

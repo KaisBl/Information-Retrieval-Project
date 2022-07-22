@@ -1,0 +1,1 @@
+{"title": "An Active Attack on Token-Based Security Protocol", "link": "https://pureportal.coventry.ac.uk/en/publications/an-active-attack-on-token-based-security-protocol", "authors": [{"name": "Abdelshafy, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/mohamed-abdelshafy"}], "date": "Apr 2001"}

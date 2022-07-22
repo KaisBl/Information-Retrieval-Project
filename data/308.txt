@@ -1,0 +1,1 @@
+{"title": "Modelling and motion control of a novel double parallel mass capsubot", "link": "https://pureportal.coventry.ac.uk/en/publications/modelling-and-motion-control-of-a-novel-double-parallel-mass-caps", "authors": [{"name": "Huda, M. N.", "link": null}, {"name": "Yu, H.", "link": null}], "date": "Jan 2011"}

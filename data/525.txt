@@ -1,0 +1,1 @@
+{"title": "Towards a deep feature-action architecture for robot homing", "link": "https://pureportal.coventry.ac.uk/en/publications/towards-a-deep-feature-action-architecture-for-robot-homing-2", "authors": [{"name": "Altahhan, A.", "link": null}], "date": "2015"}

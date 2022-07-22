@@ -1,0 +1,1 @@
+{"title": "Temporary earth restraining structure (Singapore)", "link": "https://pureportal.coventry.ac.uk/en/publications/temporary-earth-restraining-structure-singapore-2", "authors": [{"name": "Gaura, E.", "link": "https://pureportal.coventry.ac.uk/en/persons/elena-gaura"}, {"name": "Allen, M.", "link": null}, {"name": "Wilkins, R.", "link": null}], "date": "28 Jul 2016"}

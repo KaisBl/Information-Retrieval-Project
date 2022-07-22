@@ -1,0 +1,1 @@
+{"title": "The Application of Hurdle Models to Accurately Model 0-0 Draws in Predictive Models of Football Match Outcomes", "link": "https://pureportal.coventry.ac.uk/en/publications/the-application-of-hurdle-models-to-accurately-model-0-0-draws-in", "authors": [{"name": "Owen, A.", "link": "https://pureportal.coventry.ac.uk/en/persons/alun-owen"}], "date": "26 Jun 2017"}

@@ -1,0 +1,1 @@
+{"title": "Human aspects of information security in organisations", "link": "https://pureportal.coventry.ac.uk/en/publications/human-aspects-of-information-security-in-organisations", "authors": [{"name": "Safa, N. S.", "link": null}, {"name": "Solms, R. V.", "link": null}, {"name": "Futcher, L.", "link": null}], "date": "1 Feb 2016"}

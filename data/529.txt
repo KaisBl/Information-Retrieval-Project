@@ -1,0 +1,1 @@
+{"title": "The Two-Point Resistance of Fan Networks", "link": "https://pureportal.coventry.ac.uk/en/publications/the-two-point-resistance-of-fan-networks-2", "authors": [{"name": "Izmailian, N.", "link": null}, {"name": "Kenna, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/ralph-kenna"}], "date": "2015"}

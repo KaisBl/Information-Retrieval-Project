@@ -1,0 +1,1 @@
+{"title": "General solutions for MTTF and steady-state availability of NMR systems", "link": "https://pureportal.coventry.ac.uk/en/publications/general-solutions-for-mttf-and-steady-state-availability-of-nmr-s", "authors": [{"name": "Amiri, M.", "link": null}, {"name": "P\u0159enosil, V.", "link": null}], "date": "May 2014"}

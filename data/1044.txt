@@ -1,0 +1,1 @@
+{"title": "Mobile phones, institutional quality and entrepreneurship in Sub-Saharan Africa", "link": "https://pureportal.coventry.ac.uk/en/publications/mobile-phones-institutional-quality-and-entrepreneurship-in-sub-s", "authors": [{"name": "Asongu, S.", "link": null}, {"name": "Orim, S-M.", "link": null}, {"name": "Nwachukwu, J.", "link": null}], "date": "Jun 2018"}

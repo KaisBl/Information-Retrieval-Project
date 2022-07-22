@@ -1,0 +1,1 @@
+{"title": "Properties of phase transitions of higher order", "link": "https://pureportal.coventry.ac.uk/en/publications/properties-of-phase-transitions-of-higher-order-3", "authors": [{"name": "Janke, W.", "link": null}, {"name": "Johnston, D. A.", "link": null}, {"name": "Kenna, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/ralph-kenna"}], "date": "2005"}

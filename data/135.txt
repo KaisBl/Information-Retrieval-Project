@@ -1,0 +1,1 @@
+{"title": "Homotopy in statistical physics", "link": "https://pureportal.coventry.ac.uk/en/publications/homotopy-in-statistical-physics-2", "authors": [{"name": "Kenna, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/ralph-kenna"}], "date": "2006"}

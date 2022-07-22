@@ -1,0 +1,1 @@
+{"title": "AI Educational Technologies: Connecting the Student by Emotional Proxy", "link": "https://pureportal.coventry.ac.uk/en/publications/ai-educational-technologies-connecting-the-student-by-emotional-p", "authors": [{"name": "Vallverdu, J.", "link": null}, {"name": "Shah, H.", "link": "https://pureportal.coventry.ac.uk/en/persons/huma-shah"}], "date": "2 Nov 2016"}

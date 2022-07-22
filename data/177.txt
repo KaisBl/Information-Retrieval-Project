@@ -1,0 +1,1 @@
+{"title": "Non-destructive rust detection", "link": "https://pureportal.coventry.ac.uk/en/publications/non-destructive-rust-detection", "authors": [{"name": "Hocking, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/matthew-hocking"}], "date": "2008"}

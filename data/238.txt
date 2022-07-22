@@ -1,0 +1,1 @@
+{"title": "Cross correlations in scaling analyses of phase transitions", "link": "https://pureportal.coventry.ac.uk/en/publications/cross-correlations-in-scaling-analyses-of-phase-transitions-4", "authors": [{"name": "Weigel, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/martin-weigel"}, {"name": "Janke, W.", "link": null}], "date": "2009"}

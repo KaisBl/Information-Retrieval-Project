@@ -1,0 +1,1 @@
+{"title": "Latitudinal libration driven flows in triaxial ellipsoids", "link": "https://pureportal.coventry.ac.uk/en/publications/latitudinal-libration-driven-flows-in-triaxial-ellipsoids", "authors": [{"name": "Vantieghem, S.", "link": null}, {"name": "C\u00e9bron, D.", "link": null}, {"name": "Noir, J.", "link": null}], "date": "May 2015"}

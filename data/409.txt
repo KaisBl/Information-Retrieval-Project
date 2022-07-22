@@ -1,0 +1,1 @@
+{"title": "Hybrid P2P Architecture for Transaction Management", "link": "https://pureportal.coventry.ac.uk/en/publications/hybrid-p2p-architecture-for-transaction-management", "authors": [{"name": "Marrocco, S.", "link": null}, {"name": "Anane, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/rachid-anane"}], "date": "19 Dec 2013"}

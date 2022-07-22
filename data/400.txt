@@ -1,0 +1,1 @@
+{"title": "Modelling Ambient Systems with Petri Nets", "link": "https://pureportal.coventry.ac.uk/en/publications/modelling-ambient-systems-with-petri-nets", "authors": [{"name": "Konios, A.", "link": null}], "date": "Jul 2013"}

@@ -1,0 +1,1 @@
+{"title": "Cross-discourse Development of Supervised Sentiment Analysis in the Clinical Domain", "link": "https://pureportal.coventry.ac.uk/en/publications/cross-discourse-development-of-supervised-sentiment-analysis-in-t-2", "authors": [{"name": "Smith, P.", "link": null}, {"name": "Lee, M.", "link": null}], "date": "2012"}

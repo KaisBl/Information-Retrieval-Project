@@ -1,0 +1,1 @@
+{"title": "Experimental study of a capsubot for two dimensional movements", "link": "https://pureportal.coventry.ac.uk/en/publications/experimental-study-of-a-capsubot-for-two-dimensional-movements", "authors": [{"name": "Huda, M. N.", "link": null}, {"name": "Yu, H.", "link": null}, {"name": "Goodwin, M. J.", "link": null}], "date": "2012"}

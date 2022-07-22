@@ -1,0 +1,1 @@
+{"title": "Using Virtual Meeting Structure to Support Summarisation", "link": "https://pureportal.coventry.ac.uk/en/publications/using-virtual-meeting-structure-to-support-summarisation", "authors": [{"name": "Nanos, A. G.", "link": null}, {"name": "James, A. E.", "link": null}, {"name": "Iqbal, R.", "link": null}, {"name": "Hedley, Y. L.", "link": null}], "date": "2015"}

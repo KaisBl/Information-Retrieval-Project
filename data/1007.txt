@@ -1,0 +1,1 @@
+{"title": "Towards Incremental Cylindrical Algebraic Decomposition in Maple", "link": "https://pureportal.coventry.ac.uk/en/publications/towards-incremental-cylindrical-algebraic-decomposition-in-maple", "authors": [{"name": "Cowen-Rivers, A.", "link": null}, {"name": "England, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/matthew-england"}], "date": "1 Sep 2018"}

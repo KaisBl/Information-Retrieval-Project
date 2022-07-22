@@ -1,0 +1,1 @@
+{"title": "Universal finite-size scaling for percolation theory in high dimensions", "link": "https://pureportal.coventry.ac.uk/en/publications/universal-finite-size-scaling-for-percolation-theory-in-high-dime", "authors": [{"name": "Kenna, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/ralph-kenna"}, {"name": "Berche, B.", "link": null}], "date": "11 May 2017"}

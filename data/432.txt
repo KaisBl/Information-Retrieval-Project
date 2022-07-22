@@ -1,0 +1,1 @@
+{"title": "Child welfare inequalities: a human rights issue", "link": "https://pureportal.coventry.ac.uk/en/publications/child-welfare-inequalities-a-human-rights-issue-2", "authors": [{"name": "Brady, G. M.", "link": null}, {"name": "Bywaters, P.", "link": null}, {"name": "Sparks, T.", "link": null}, {"name": "Bos, E.", "link": null}], "date": "2013"}

@@ -1,0 +1,1 @@
+{"title": "An improved algorithm for the longest common subsequence problem", "link": "https://pureportal.coventry.ac.uk/en/publications/an-improved-algorithm-for-the-longest-common-subsequence-problem", "authors": [{"name": "Mousavi, S. R.", "link": "https://pureportal.coventry.ac.uk/en/persons/seyed-mousavi-mousavi"}, {"name": "Tabataba, F.", "link": null}], "date": "Mar 2012"}

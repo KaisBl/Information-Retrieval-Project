@@ -1,0 +1,1 @@
+{"title": "Random Cluster Sampling on X-Machines Test Cases", "link": "https://pureportal.coventry.ac.uk/en/publications/random-cluster-sampling-on-x-machines-test-cases", "authors": [{"name": "Khan, Y. I.", "link": null}, {"name": "Kausar, S.", "link": null}], "date": "2013"}

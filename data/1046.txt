@@ -1,0 +1,1 @@
+{"title": "Machine Learning for Mathematical Software", "link": "https://pureportal.coventry.ac.uk/en/publications/machine-learning-for-mathematical-software", "authors": [{"name": "England, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/matthew-england"}], "date": "14 Jul 2018"}

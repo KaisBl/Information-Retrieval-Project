@@ -1,0 +1,1 @@
+{"title": "An overview of artificial intelligence based pattern matching in a security and digital forensic context", "link": "https://pureportal.coventry.ac.uk/en/publications/an-overview-of-artificial-intelligence-based-pattern-matching-in-", "authors": [{"name": "Mitchell, F. R.", "link": "https://pureportal.coventry.ac.uk/en/persons/faye-mitchell"}], "date": "2014"}

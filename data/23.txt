@@ -1,0 +1,1 @@
+{"title": "Modelling and simulation of a supply chain in an uncertain environment", "link": "https://pureportal.coventry.ac.uk/en/publications/modelling-and-simulation-of-a-supply-chain-in-an-uncertain-enviro", "authors": [{"name": "Petrovic, D.", "link": null}, {"name": "Roy, R.", "link": null}, {"name": "Petrovic, R.", "link": null}], "date": "1 Sep 1998"}

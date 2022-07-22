@@ -1,0 +1,1 @@
+{"title": "Electromagnetic wave control by metasurfaces: From design to manufacturing", "link": "https://pureportal.coventry.ac.uk/en/publications/electromagnetic-wave-control-by-metasurfaces-from-design-to-manuf", "authors": [{"name": "La Spada, L.", "link": null}, {"name": "Hao, Y.", "link": null}], "date": "10 Nov 2017"}

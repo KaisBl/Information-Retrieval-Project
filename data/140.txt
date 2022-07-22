@@ -1,0 +1,1 @@
+{"title": "A timed automata approach to QoS resolution", "link": "https://pureportal.coventry.ac.uk/en/publications/a-timed-automata-approach-to-qos-resolution-2", "authors": [{"name": "Anane, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/rachid-anane"}, {"name": "Okano, K.", "link": null}, {"name": "Bordbar, B.", "link": null}], "date": "Jan 2006"}

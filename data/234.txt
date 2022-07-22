@@ -1,0 +1,1 @@
+{"title": "Domain decomposition methods for compressed sensing", "link": "https://pureportal.coventry.ac.uk/en/publications/domain-decomposition-methods-for-compressed-sensing", "authors": [{"name": "Fornasier, M.", "link": null}, {"name": "Langer, A.", "link": null}, {"name": "Sch\u00f6nlieb, C-B.", "link": null}], "date": "22 May 2009"}

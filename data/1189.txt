@@ -1,0 +1,1 @@
+{"title": "Crime and Social media", "link": "https://pureportal.coventry.ac.uk/en/publications/crime-and-social-media", "authors": [{"name": "Asongu, S.", "link": null}, {"name": "Nwachukwu, J.", "link": null}, {"name": "Orim, S-M.", "link": null}, {"name": "Pyke, C.", "link": null}], "date": "7 Oct 2019"}

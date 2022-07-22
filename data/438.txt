@@ -1,0 +1,1 @@
+{"title": "Analysis of security attacks on AODV routing", "link": "https://pureportal.coventry.ac.uk/en/publications/analysis-of-security-attacks-on-aodv-routing", "authors": [{"name": "Abdelshafy, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/mohamed-abdelshafy"}, {"name": "King, P. J. B.", "link": null}], "date": "Dec 2013"}

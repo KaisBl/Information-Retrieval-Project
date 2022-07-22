@@ -1,0 +1,1 @@
+{"title": "Disseminating a warning message to evacuate: A simulation study of the behaviour of neighbours", "link": "https://pureportal.coventry.ac.uk/en/publications/disseminating-a-warning-message-to-evacuate-a-simulation-study-of", "authors": [{"name": "Nagarajan, M.", "link": null}, {"name": "Shaw, D.", "link": null}, {"name": "Albores, P.", "link": null}], "date": "2012"}

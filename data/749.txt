@@ -1,0 +1,1 @@
+{"title": "Maths Meets Myths: Network Investigations of Ancient Narratives", "link": "https://pureportal.coventry.ac.uk/en/publications/maths-meets-myths-network-investigations-of-ancient-narratives-2", "authors": [{"name": "Kenna, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/ralph-kenna"}, {"name": "Carron, P. M.", "link": null}], "date": "2016"}

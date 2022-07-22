@@ -1,0 +1,1 @@
+{"title": "The application of colour FIRE to robot vision", "link": "https://pureportal.coventry.ac.uk/en/publications/the-application-of-colour-fire-to-robot-vision", "authors": [{"name": "Croft, D.", "link": null}, {"name": "Coupland, S.", "link": null}], "date": "2010"}

@@ -1,0 +1,1 @@
+{"title": "A Divergence Measure Between Mass Functions", "link": "https://pureportal.coventry.ac.uk/en/publications/a-divergence-measure-between-mass-functions-2", "authors": [{"name": "Ma, J.", "link": null}], "date": "3 Nov 2015"}

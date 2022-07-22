@@ -1,0 +1,1 @@
+{"title": "Non-Newtonian channel flow\u2014exact solutions", "link": "https://pureportal.coventry.ac.uk/en/publications/non-newtonian-channel-flowexact-solutions", "authors": [{"name": "Griffiths, P.", "link": "https://pureportal.coventry.ac.uk/en/persons/paul-griffiths"}], "date": "26 Apr 2020"}

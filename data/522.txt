@@ -1,0 +1,1 @@
+{"title": "Two Brains Guided Interactive Evolution", "link": "https://pureportal.coventry.ac.uk/en/publications/two-brains-guided-interactive-evolution-2", "authors": [{"name": "Kattan, A.", "link": null}, {"name": "Doctor, F.", "link": null}, {"name": "Arif, M.", "link": null}], "date": "2015"}

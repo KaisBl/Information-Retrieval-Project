@@ -1,0 +1,1 @@
+{"title": "Painless knowledge acquisition for time series data", "link": "https://pureportal.coventry.ac.uk/en/publications/painless-knowledge-acquisition-for-time-series-data", "authors": [{"name": "Mitchell, F.", "link": "https://pureportal.coventry.ac.uk/en/persons/faye-mitchell"}], "date": "1997"}

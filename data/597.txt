@@ -1,0 +1,1 @@
+{"title": "IT for future e-business management [editorial]", "link": "https://pureportal.coventry.ac.uk/en/publications/it-for-future-e-business-management-editorial-2", "authors": [{"name": "Fei, X.", "link": "https://pureportal.coventry.ac.uk/en/persons/xiang-fei"}, {"name": "Chung, J-Y.", "link": null}], "date": "2015"}

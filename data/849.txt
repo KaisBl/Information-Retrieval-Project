@@ -1,0 +1,1 @@
+{"title": "ThruMapper: Through-wall building tomography with a single mapping robot", "link": "https://pureportal.coventry.ac.uk/en/publications/thrumapper-through-wall-building-tomography-with-a-single-mapping", "authors": [{"name": "Tan, B.", "link": null}, {"name": "Chetty, K.", "link": null}, {"name": "Jamieson, K.", "link": null}], "date": "21 Feb 2017"}

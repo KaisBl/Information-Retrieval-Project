@@ -1,0 +1,1 @@
+{"title": "A fast and efficient semantic short text similarity metric", "link": "https://pureportal.coventry.ac.uk/en/publications/a-fast-and-efficient-semantic-short-text-similarity-metric", "authors": [{"name": "Croft, D.", "link": null}, {"name": "Coupland, S.", "link": null}, {"name": "Shell, J.", "link": null}, {"name": "Brown, S.", "link": null}], "date": "2013"}

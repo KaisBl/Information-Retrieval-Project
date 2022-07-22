@@ -1,0 +1,1 @@
+{"title": "Human or Machine?", "link": "https://pureportal.coventry.ac.uk/en/publications/human-or-machine", "authors": [{"name": "Shah, H.", "link": "https://pureportal.coventry.ac.uk/en/persons/huma-shah"}, {"name": "Warwick, K.", "link": "https://pureportal.coventry.ac.uk/en/persons/kevin-warwick"}], "date": "Apr 2015"}

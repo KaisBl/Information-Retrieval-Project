@@ -1,0 +1,1 @@
+{"title": "Robots for minimally invasive diagnosis and intervention", "link": "https://pureportal.coventry.ac.uk/en/publications/robots-for-minimally-invasive-diagnosis-and-intervention", "authors": [{"name": "Huda, M. N.", "link": null}, {"name": "Yu, H.", "link": null}, {"name": "Cang, S.", "link": null}], "date": "1 Oct 2016"}

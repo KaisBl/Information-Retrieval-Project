@@ -1,0 +1,1 @@
+{"title": "The use of Artificial Intelligence in digital forensics: An introduction", "link": "https://pureportal.coventry.ac.uk/en/publications/the-use-of-artificial-intelligence-in-digital-forensics-an-introd", "authors": [{"name": "Mitchell, F.", "link": "https://pureportal.coventry.ac.uk/en/persons/faye-mitchell"}], "date": "2010"}

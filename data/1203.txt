@@ -1,0 +1,1 @@
+{"title": "A survey of petri nets slicing", "link": "https://pureportal.coventry.ac.uk/en/publications/a-survey-of-petri-nets-slicing", "authors": [{"name": "Khan, Y. I.", "link": null}, {"name": "Konios, A.", "link": null}, {"name": "Guelfi, N.", "link": null}], "date": "23 Jan 2019"}

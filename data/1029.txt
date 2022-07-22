@@ -1,0 +1,1 @@
+{"title": "Opportunistic Doppler-Only Indoor localization via Passive Radar", "link": "https://pureportal.coventry.ac.uk/en/publications/opportunistic-doppler-only-indoor-localization-via-passive-radar", "authors": [{"name": "Li, W.", "link": null}, {"name": "Tan, B.", "link": null}, {"name": "Piechocki, R.", "link": null}], "date": "29 Oct 2018"}

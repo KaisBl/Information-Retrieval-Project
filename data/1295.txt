@@ -1,0 +1,1 @@
+{"title": "Syzygy modules for dihedral groups", "link": "https://pureportal.coventry.ac.uk/en/publications/syzygy-modules-for-dihedral-groups", "authors": [{"name": "Evans, J. D. P.", "link": "https://pureportal.coventry.ac.uk/en/persons/john-evans"}], "date": "2021"}

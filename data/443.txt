@@ -1,0 +1,1 @@
+{"title": "A CCG-based Approach to Fine-Grained Sentiment Analysis in Microtext", "link": "https://pureportal.coventry.ac.uk/en/publications/a-ccg-based-approach-to-fine-grained-sentiment-analysis-in-microt-2", "authors": [{"name": "Smith, P.", "link": null}, {"name": "Lee, M.", "link": null}], "date": "2013"}

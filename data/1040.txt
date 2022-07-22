@@ -1,0 +1,1 @@
+{"title": "Monte Carlo methods for massively parallel computers", "link": "https://pureportal.coventry.ac.uk/en/publications/monte-carlo-methods-for-massively-parallel-computers", "authors": [{"name": "Weigel, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/martin-weigel"}], "date": "1 Jan 2018"}

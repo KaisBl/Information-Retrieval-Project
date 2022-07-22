@@ -1,0 +1,1 @@
+{"title": "Processing Data Structures in a Peer-To-Peer Network", "link": "https://pureportal.coventry.ac.uk/en/publications/processing-data-structures-in-a-peer-to-peer-network", "authors": [{"name": "Thompson, P.", "link": null}, {"name": "James, A.", "link": null}, {"name": "Smalov, L.", "link": null}], "date": "4 Dec 2006"}

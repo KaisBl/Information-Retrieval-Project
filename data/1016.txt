@@ -1,0 +1,1 @@
+{"title": "Semsem-DEV: A framework to develop and evaluate educational games mechanics", "link": "https://pureportal.coventry.ac.uk/en/publications/semsem-dev-a-framework-to-develop-and-evaluate-educational-games-", "authors": [{"name": "Awad, M.", "link": null}, {"name": "Alzibali, S.", "link": null}, {"name": "Alkarboush, S.", "link": null}], "date": "5 Oct 2018"}

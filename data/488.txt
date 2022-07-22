@@ -1,0 +1,1 @@
+{"title": "Design of the Brushless DFIG for optimal inverter rating", "link": "https://pureportal.coventry.ac.uk/en/publications/design-of-the-brushless-dfig-for-optimal-inverter-rating", "authors": [{"name": "Abdi, E.", "link": null}, {"name": "Oraee, A.", "link": null}, {"name": "Abdi Jalebi, S.", "link": null}, {"name": "McMahon, R.", "link": null}], "date": "19 Jun 2014"}

@@ -1,0 +1,1 @@
+{"title": "Analysis of impact of uncertainty in global production networks\u2019 parameters", "link": "https://pureportal.coventry.ac.uk/en/publications/analysis-of-impact-of-uncertainty-in-global-production-networks-p", "authors": [{"name": "Petrovic, D.", "link": null}, {"name": "Niknejad, A.", "link": null}], "date": "Sep 2017"}

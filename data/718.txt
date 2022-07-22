@@ -1,0 +1,1 @@
+{"title": "Self-reflective deep reinforcement learning", "link": "https://pureportal.coventry.ac.uk/en/publications/self-reflective-deep-reinforcement-learning-2", "authors": [{"name": "Altahhan, A.", "link": null}], "date": "3 Nov 2016"}

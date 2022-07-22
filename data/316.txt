@@ -1,0 +1,1 @@
+{"title": "Evaluating the training dynamics of a CMOS based synapse", "link": "https://pureportal.coventry.ac.uk/en/publications/evaluating-the-training-dynamics-of-a-cmos-based-synapse", "authors": [{"name": "Ghani, A.", "link": null}], "date": "2011"}

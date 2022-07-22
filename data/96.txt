@@ -1,0 +1,1 @@
+{"title": "Harris-Luck criterion for random lattices", "link": "https://pureportal.coventry.ac.uk/en/publications/harris-luck-criterion-for-random-lattices-2", "authors": [{"name": "Janke, W.", "link": null}, {"name": "Weigel, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/martin-weigel"}], "date": "23 Apr 2004"}

@@ -1,0 +1,1 @@
+{"title": "A Recommendation Cascade for e-learning", "link": "https://pureportal.coventry.ac.uk/en/publications/a-recommendation-cascade-for-e-learning", "authors": [{"name": "Buncle, J.", "link": null}, {"name": "Anane, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/rachid-anane"}, {"name": "Nakayama, M.", "link": null}], "date": "25 Mar 2013"}

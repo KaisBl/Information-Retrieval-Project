@@ -1,0 +1,1 @@
+{"title": "A machine learning framework for context specific collimation and workflow phase detection", "link": "https://pureportal.coventry.ac.uk/en/publications/a-machine-learning-framework-for-context-specific-collimation-and", "authors": [{"name": "Ma, Y.", "link": "https://pureportal.coventry.ac.uk/en/persons/yingliang-ma"}], "date": "Nov 2018"}

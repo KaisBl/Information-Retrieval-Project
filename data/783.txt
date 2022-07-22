@@ -1,0 +1,1 @@
+{"title": "Distinguishing AI from Male/Female Dialogue", "link": "https://pureportal.coventry.ac.uk/en/publications/distinguishing-ai-from-malefemale-dialogue-2", "authors": [{"name": "Shah, H.", "link": "https://pureportal.coventry.ac.uk/en/persons/huma-shah"}, {"name": "Warwick, K.", "link": "https://pureportal.coventry.ac.uk/en/persons/kevin-warwick"}], "date": "2016"}

@@ -1,0 +1,1 @@
+{"title": "Modelling HIV/AIDS in the presence of an HIV testing and screening campaign", "link": "https://pureportal.coventry.ac.uk/en/publications/modelling-hivaids-in-the-presence-of-an-hiv-testing-and-screening", "authors": [{"name": "Nyabadza, F.", "link": null}, {"name": "Mukandavire, Z.", "link": null}], "date": "7 Jul 2011"}

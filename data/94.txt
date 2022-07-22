@@ -1,0 +1,1 @@
+{"title": "Information geometry and phase transitions", "link": "https://pureportal.coventry.ac.uk/en/publications/information-geometry-and-phase-transitions-3", "authors": [{"name": "Janke, W.", "link": null}, {"name": "Johnston, D. A.", "link": null}, {"name": "Kenna, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/ralph-kenna"}], "date": "1 May 2004"}

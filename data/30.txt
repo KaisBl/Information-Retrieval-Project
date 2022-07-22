@@ -1,0 +1,1 @@
+{"title": "Artificial neural networks for inverse problems in electromagnetics", "link": "https://pureportal.coventry.ac.uk/en/publications/artificial-neural-networks-for-inverse-problems-in-electromagneti", "authors": [{"name": "Marinova, I.", "link": null}, {"name": "Panchev, C.", "link": "https://pureportal.coventry.ac.uk/en/persons/christo-panchev"}], "date": "1999"}

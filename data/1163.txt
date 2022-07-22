@@ -1,0 +1,1 @@
+{"title": "Matched asymptotic analysis of self-similar blow-up profiles of the thin film equation", "link": "https://pureportal.coventry.ac.uk/en/publications/matched-asymptotic-analysis-of-self-similar-blow-up-profiles-of-t", "authors": [{"name": "Dallaston, M.", "link": null}], "date": "May 2019"}

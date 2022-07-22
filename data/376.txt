@@ -1,0 +1,1 @@
+{"title": "The Zero-Sequence Current as a Generalized Diagnostic Mean in \u0394-Connected Three-Phase Induction Motors", "link": "https://pureportal.coventry.ac.uk/en/publications/the-zero-sequence-current-as-a-generalized-diagnostic-mean-in-%CE%B4-c-2", "authors": [{"name": "Gyftakis, K. N.", "link": null}, {"name": "Kappatou, J. C.", "link": null}], "date": "2013"}

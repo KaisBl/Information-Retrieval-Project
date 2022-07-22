@@ -1,0 +1,1 @@
+{"title": "Development and Verification of a Distributed Electro-Thermal Li-Ion Cell Model", "link": "https://pureportal.coventry.ac.uk/en/publications/development-and-verification-of-a-distributed-electro-thermal-li-", "authors": [{"name": "Stocker, R.", "link": null}, {"name": "Lophitis, N.", "link": null}, {"name": "Mumtaz, A.", "link": null}], "date": "Oct 2018"}

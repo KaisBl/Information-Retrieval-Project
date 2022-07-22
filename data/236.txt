@@ -1,0 +1,1 @@
+{"title": "Der Komplexit\u00e4t auf den Grund gehen", "link": "https://pureportal.coventry.ac.uk/en/publications/der-komplexit%C3%A4t-auf-den-grund-gehen-2", "authors": [{"name": "Weigel, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/martin-weigel"}, {"name": "Schilling, T.", "link": null}], "date": "2009"}

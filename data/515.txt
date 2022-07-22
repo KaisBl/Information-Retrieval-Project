@@ -1,0 +1,1 @@
+{"title": "A counter/discriminator of neutrons and gamma rays", "link": "https://pureportal.coventry.ac.uk/en/publications/a-counterdiscriminator-of-neutrons-and-gamma-rays", "authors": [{"name": "Amiri, M.", "link": null}, {"name": "P\u0159enosil, V.", "link": null}], "date": "Aug 2014"}

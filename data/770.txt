@@ -1,0 +1,1 @@
+{"title": "Geometry effects in the magnetoconductance of normal and Andreev Sinai billiards", "link": "https://pureportal.coventry.ac.uk/en/publications/geometry-effects-in-the-magnetoconductance-of-normal-and-andreev--2", "authors": [{"name": "Fytas, N. G.", "link": "https://pureportal.coventry.ac.uk/en/persons/nikolaos-fytas"}], "date": "Jun 2016"}

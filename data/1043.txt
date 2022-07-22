@@ -1,0 +1,1 @@
+{"title": "Modeling and manufacturing for surface wave control", "link": "https://pureportal.coventry.ac.uk/en/publications/modeling-and-manufacturing-for-surface-wave-control", "authors": [{"name": "La Spada, L.", "link": null}, {"name": "Hao, Y.", "link": null}], "date": "4 Jan 2018"}

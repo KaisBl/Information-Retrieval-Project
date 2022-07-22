@@ -1,0 +1,1 @@
+{"title": "Scaling and Finite-Size Scaling above the Upper Critical Dimension", "link": "https://pureportal.coventry.ac.uk/en/publications/scaling-and-finite-size-scaling-above-the-upper-critical-dimensio-2", "authors": [{"name": "Kenna, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/ralph-kenna"}, {"name": "Berche, B.", "link": null}], "date": "2015"}

@@ -1,0 +1,1 @@
+{"title": "An Application of Neural Networks in Automatic Target Recognition at Sea", "link": "https://pureportal.coventry.ac.uk/en/publications/an-application-of-neural-networks-in-automatic-target-recognition", "authors": [{"name": "Panchev, C.", "link": "https://pureportal.coventry.ac.uk/en/persons/christo-panchev"}, {"name": "Alexandrov, C.", "link": null}], "date": "2008"}

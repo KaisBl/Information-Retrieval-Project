@@ -1,0 +1,1 @@
+{"title": "Triboelectric Energy harvester for Self-Powered Sensors", "link": "https://pureportal.coventry.ac.uk/en/publications/triboelectric-energy-harvester-for-self-powered-sensors", "authors": [{"name": "Saha, C.", "link": "https://pureportal.coventry.ac.uk/en/persons/chitta-saha"}], "date": "24 Apr 2018"}

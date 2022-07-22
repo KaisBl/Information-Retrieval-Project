@@ -1,0 +1,1 @@
+{"title": "An extension of GridSim for quality of service", "link": "https://pureportal.coventry.ac.uk/en/publications/an-extension-of-gridsim-for-quality-of-service", "authors": [{"name": "Al Bodour, R.", "link": "https://pureportal.coventry.ac.uk/en/persons/reda-al-bodour"}, {"name": "James, A.", "link": null}, {"name": "Yaacob, N.", "link": null}], "date": "14 Apr 2010"}

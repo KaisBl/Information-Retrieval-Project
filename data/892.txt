@@ -1,0 +1,1 @@
+{"title": "Perfomance Analysis of FPGA based Maximum Power Point Tracking Algorithms for Photovoltaic Applications", "link": "https://pureportal.coventry.ac.uk/en/publications/perfomance-analysis-of-fpga-based-maximum-power-point-tracking-al", "authors": [{"name": "Ghani, A.", "link": null}], "date": "2017"}

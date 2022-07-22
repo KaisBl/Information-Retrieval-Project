@@ -1,0 +1,1 @@
+{"title": "A generic design approach for metasurfaces to manipulate surface waves", "link": "https://pureportal.coventry.ac.uk/en/publications/a-generic-design-approach-for-metasurfaces-to-manipulate-surface-", "authors": [{"name": "La Spada, L.", "link": null}, {"name": "Hao, Y.", "link": null}], "date": "31 May 2016"}

@@ -1,0 +1,1 @@
+{"title": "Analysis of a human transmission model with discrete delays", "link": "https://pureportal.coventry.ac.uk/en/publications/analysis-of-a-human-transmission-model-with-discrete-delays", "authors": [{"name": "Chiyaka, C.", "link": null}, {"name": "Garira, W.", "link": null}, {"name": "Dube, S.", "link": null}, {"name": "Mukandavire, Z.", "link": null}], "date": "2008"}

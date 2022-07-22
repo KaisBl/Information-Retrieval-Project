@@ -1,0 +1,1 @@
+{"title": "A New Attack on Aziz-Diffie Security Protocol", "link": "https://pureportal.coventry.ac.uk/en/publications/a-new-attack-on-aziz-diffie-security-protocol", "authors": [{"name": "Abdelshafy, M.", "link": "https://pureportal.coventry.ac.uk/en/persons/mohamed-abdelshafy"}], "date": "Mar 2001"}

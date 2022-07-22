@@ -1,0 +1,1 @@
+{"title": "Surface wave cloaking using transformation optics", "link": "https://pureportal.coventry.ac.uk/en/publications/surface-wave-cloaking-using-transformation-optics", "authors": [{"name": "Spada, L. L.", "link": null}, {"name": "Hao, Y.", "link": null}], "date": "21 Oct 2015"}

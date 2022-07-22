@@ -1,0 +1,1 @@
+{"title": "Supply chain modelling using fuzzy sets", "link": "https://pureportal.coventry.ac.uk/en/publications/supply-chain-modelling-using-fuzzy-sets", "authors": [{"name": "Petrovic, D.", "link": null}, {"name": "Roy, R.", "link": null}, {"name": "Petrovic, R.", "link": null}], "date": "Mar 1999"}

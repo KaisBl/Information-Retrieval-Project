@@ -1,0 +1,1 @@
+{"title": "Ecotricity: An Optimal Investment Decision for Electric Highway Expansion", "link": "https://pureportal.coventry.ac.uk/en/publications/ecotricity-an-optimal-investment-decision-for-electric-highway-ex", "authors": [{"name": "Nagarajan, M.", "link": null}, {"name": "Balasubramanian, K.", "link": null}, {"name": "Tamvada, J.", "link": null}], "date": "3 Feb 2018"}

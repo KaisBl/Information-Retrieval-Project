@@ -1,0 +1,1 @@
+{"title": "A study of rotor eccentricities effects on brushless doubly fed machines performance", "link": "https://pureportal.coventry.ac.uk/en/publications/a-study-of-rotor-eccentricities-effects-on-brushless-doubly-fed-m", "authors": [{"name": "Abdi Jalebi, S.", "link": null}, {"name": "Abdi, E.", "link": null}, {"name": "McMahon, R.", "link": null}], "date": "18 Feb 2016"}

@@ -1,0 +1,1 @@
+{"title": "Technological, environmental and economic aspects of Asphalt recycling for road construction", "link": "https://pureportal.coventry.ac.uk/en/publications/technological-environmental-and-economic-aspects-of-asphalt-recyc-2", "authors": [{"name": "Liu, S.", "link": null}, {"name": "Shukla, A.", "link": null}, {"name": "Nandra, T.", "link": null}], "date": "Aug 2017"}

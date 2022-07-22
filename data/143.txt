@@ -1,0 +1,1 @@
+{"title": "Aero-ID sensor integration: scope of work", "link": "https://pureportal.coventry.ac.uk/en/publications/aero-id-sensor-integration-scope-of-work-2", "authors": [{"name": "Brusey, J.", "link": "https://pureportal.coventry.ac.uk/en/persons/james-brusey"}, {"name": "Thorne, A.", "link": null}], "date": "1 Feb 2006"}

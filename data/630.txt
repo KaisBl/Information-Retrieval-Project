@@ -1,0 +1,1 @@
+{"title": "Dynamic phase and group detection in pedestrian crowd data using multiplex visibility graphs", "link": "https://pureportal.coventry.ac.uk/en/publications/dynamic-phase-and-group-detection-in-pedestrian-crowd-data-using--2", "authors": [{"name": "Stephen, C.", "link": "https://pureportal.coventry.ac.uk/en/persons/colin-stephen"}], "date": "2015"}

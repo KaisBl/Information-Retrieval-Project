@@ -1,0 +1,1 @@
+{"title": "Slicing High-level Petri Nets", "link": "https://pureportal.coventry.ac.uk/en/publications/slicing-high-level-petri-nets", "authors": [{"name": "Khan, Y. I.", "link": null}, {"name": "Guelfi, N.", "link": null}], "date": "2014"}

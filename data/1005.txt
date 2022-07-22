@@ -1,0 +1,1 @@
+{"title": "Traffic modelling, visualisation and prediction for urban mobility management", "link": "https://pureportal.coventry.ac.uk/en/publications/traffic-modelling-visualisation-and-prediction-for-urban-mobility", "authors": [{"name": "Maniak, T.", "link": null}, {"name": "Iqbal, R.", "link": null}, {"name": "Doctor, F.", "link": null}], "date": "2018"}

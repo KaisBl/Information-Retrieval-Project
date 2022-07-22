@@ -1,0 +1,1 @@
+{"title": "Dynamic Bayesian forecasting models of football match outcomes with estimation of the evolution variance parameter", "link": "https://pureportal.coventry.ac.uk/en/publications/dynamic-bayesian-forecasting-models-of-football-match-outcomes-wi", "authors": [{"name": "Owen, A.", "link": "https://pureportal.coventry.ac.uk/en/persons/alun-owen"}], "date": "20 Jan 2011"}

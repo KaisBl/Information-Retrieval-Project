@@ -1,0 +1,1 @@
+{"title": "A Genetic-Fuzzy Framework for Optimization of Reverse Logistics Networks with Multiple Recovery Routes", "link": "https://pureportal.coventry.ac.uk/en/publications/a-genetic-fuzzy-framework-for-optimization-of-reverse-logistics-n-2", "authors": [{"name": "Niknejad, A.", "link": null}, {"name": "Petrovic, D.", "link": null}], "date": "2011"}

@@ -1,0 +1,1 @@
+{"title": "Degree correlations in directed scale-free networks", "link": "https://pureportal.coventry.ac.uk/en/publications/degree-correlations-in-directed-scale-free-networks", "authors": [{"name": "Williams, O.", "link": null}, {"name": "del Genio, C.", "link": "https://pureportal.coventry.ac.uk/en/persons/charo-del-genio"}], "date": "2014"}

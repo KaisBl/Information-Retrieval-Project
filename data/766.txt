@@ -1,0 +1,1 @@
+{"title": "Hierarchical transfer learning for online recognition of compound actions", "link": "https://pureportal.coventry.ac.uk/en/publications/hierarchical-transfer-learning-for-online-recognition-of-compound-2", "authors": [{"name": "Bloom, V.", "link": null}, {"name": "Argyriou, V.", "link": null}, {"name": "Makris, D.", "link": null}], "date": "Mar 2016"}

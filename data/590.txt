@@ -1,0 +1,1 @@
+{"title": "Modelling of dual-cycle strategy for container storage and vehicle scheduling problems at automated container terminals", "link": "https://pureportal.coventry.ac.uk/en/publications/modelling-of-dual-cycle-strategy-for-container-storage-and-vehicl-2", "authors": [{"name": "Luo, J.", "link": null}, {"name": "Wu, Y.", "link": null}], "date": "2015"}

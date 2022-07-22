@@ -1,0 +1,1 @@
+{"title": "A Genetic Approach for Long Term Virtual Organization Distribution", "link": "https://pureportal.coventry.ac.uk/en/publications/a-genetic-approach-for-long-term-virtual-organization-distributio", "authors": [{"name": "Sanchez-Anguix, V.", "link": null}, {"name": "Valero, S.", "link": null}, {"name": "Garcia-Fornes, A.", "link": null}], "date": "2011"}
